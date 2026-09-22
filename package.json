@@ -1,0 +1,13 @@
+{
+  "name": "veille-tech-github-trending",
+  "version": "1.0.0",
+  "description": "Veille technologique automatisee basee sur GitHub Trending, via GitHub Actions",
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "fetch": "node scripts/fetch-trending.mjs"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}
