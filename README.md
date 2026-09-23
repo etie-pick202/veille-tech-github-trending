@@ -40,34 +40,34 @@ Necessite Node.js >= 20 (utilise le `fetch` natif). Optionnel : exporter un
 
 <!-- TRENDING:START -->
 
-_Derniere mise a jour : 2026-09-22 10:22:06 UTC_
+_Derniere mise a jour : 2026-09-23 12:40:49 UTC_
 
 ### IA & LLM
 
-- [jev-chat/jev-chat-jarvis](https://github.com/jev-chat/jev-chat-jarvis) — 2702 ★
-- [yibie/awesome-jev](https://github.com/yibie/awesome-jev) — 1160 ★
-- [youngyangyang04/llm-master](https://github.com/youngyangyang04/llm-master) — 895 ★
+- [jev-chat/jev-chat-jarvis](https://github.com/jev-chat/jev-chat-jarvis) — 5007 ★
+- [yibie/awesome-jev](https://github.com/yibie/awesome-jev) — 1413 ★
+- [youngyangyang04/llm-master](https://github.com/youngyangyang04/llm-master) — 926 ★
 - [Rapport complet](trending/ai-llm.md)
 
 ### DevOps & Cloud
 
+- [rusmanadodi2598/rusmanadodi2598](https://github.com/rusmanadodi2598/rusmanadodi2598) — 26 ★
 - [nateships/rolle](https://github.com/nateships/rolle) — 25 ★
-- [rusmanadodi2598/rusmanadodi2598](https://github.com/rusmanadodi2598/rusmanadodi2598) — 16 ★
 - [PG-Circuit/pg-circuit](https://github.com/PG-Circuit/pg-circuit) — 15 ★
 - [Rapport complet](trending/devops-cloud.md)
 
 ### Backend (.NET / Go)
 
-- [unstablebuild/rune](https://github.com/unstablebuild/rune) — 1061 ★
-- [linguo2625469/workbuddy2api-panel](https://github.com/linguo2625469/workbuddy2api-panel) — 669 ★
-- [gylive/ccodex-sleep-state](https://github.com/gylive/ccodex-sleep-state) — 581 ★
+- [unreallabsai/unreal-agent](https://github.com/unreallabsai/unreal-agent) — 1467 ★
+- [unstablebuild/rune](https://github.com/unstablebuild/rune) — 1081 ★
+- [linguo2625469/workbuddy2api-panel](https://github.com/linguo2625469/workbuddy2api-panel) — 720 ★
 - [Rapport complet](trending/backend-dotnet-go.md)
 
 ### Frontend (Next.js / React)
 
-- [ithtelab/workbuddy-manager](https://github.com/ithtelab/workbuddy-manager) — 388 ★
-- [liyupi/ai-model-world](https://github.com/liyupi/ai-model-world) — 168 ★
-- [Shellishack/infinite-pokemon](https://github.com/Shellishack/infinite-pokemon) — 123 ★
+- [ithtelab/workbuddy-manager](https://github.com/ithtelab/workbuddy-manager) — 426 ★
+- [liyupi/ai-model-world](https://github.com/liyupi/ai-model-world) — 174 ★
+- [Shellishack/infinite-pokemon](https://github.com/Shellishack/infinite-pokemon) — 128 ★
 - [Rapport complet](trending/frontend-nextjs-react.md)
 
 <!-- TRENDING:END -->
