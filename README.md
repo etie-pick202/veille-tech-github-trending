@@ -40,34 +40,34 @@ Necessite Node.js >= 20 (utilise le `fetch` natif). Optionnel : exporter un
 
 <!-- TRENDING:START -->
 
-_Derniere mise a jour : 2026-09-26 12:08:53 UTC_
+_Derniere mise a jour : 2026-09-27 12:54:03 UTC_
 
 ### IA & LLM
 
-- [jev-chat/jev-chat-jarvis](https://github.com/jev-chat/jev-chat-jarvis) — 6614 ★
-- [yibie/awesome-jev](https://github.com/yibie/awesome-jev) — 1707 ★
-- [yetone/magpie](https://github.com/yetone/magpie) — 838 ★
+- [jev-chat/jev-chat-jarvis](https://github.com/jev-chat/jev-chat-jarvis) — 6747 ★
+- [yibie/awesome-jev](https://github.com/yibie/awesome-jev) — 1809 ★
+- [yetone/magpie](https://github.com/yetone/magpie) — 1167 ★
 - [Rapport complet](trending/ai-llm.md)
 
 ### DevOps & Cloud
 
-- [mikehasa/golive-skill](https://github.com/mikehasa/golive-skill) — 964 ★
-- [defitier-sdk/0audit.com](https://github.com/defitier-sdk/0audit.com) — 64 ★
+- [mikehasa/golive-skill](https://github.com/mikehasa/golive-skill) — 995 ★
+- [defitier-sdk/0audit.com](https://github.com/defitier-sdk/0audit.com) — 79 ★
 - [kubermeister/kubermeister](https://github.com/kubermeister/kubermeister) — 15 ★
 - [Rapport complet](trending/devops-cloud.md)
 
 ### Backend (.NET / Go)
 
-- [unreallabsai/unreal-agent](https://github.com/unreallabsai/unreal-agent) — 1954 ★
-- [kryvora-network/kryvora-node](https://github.com/kryvora-network/kryvora-node) — 849 ★
-- [yetone/magpie](https://github.com/yetone/magpie) — 838 ★
+- [unreallabsai/unreal-agent](https://github.com/unreallabsai/unreal-agent) — 1979 ★
+- [yetone/magpie](https://github.com/yetone/magpie) — 1167 ★
+- [kryvora-network/kryvora-node](https://github.com/kryvora-network/kryvora-node) — 953 ★
 - [Rapport complet](trending/backend-dotnet-go.md)
 
 ### Frontend (Next.js / React)
 
-- [liyupi/ai-model-world](https://github.com/liyupi/ai-model-world) — 187 ★
-- [Shellishack/infinite-pokemon](https://github.com/Shellishack/infinite-pokemon) — 158 ★
-- [fazlerocks/jevmail](https://github.com/fazlerocks/jevmail) — 81 ★
+- [liyupi/ai-model-world](https://github.com/liyupi/ai-model-world) — 191 ★
+- [Shellishack/infinite-pokemon](https://github.com/Shellishack/infinite-pokemon) — 163 ★
+- [fazlerocks/jevmail](https://github.com/fazlerocks/jevmail) — 85 ★
 - [Rapport complet](trending/frontend-nextjs-react.md)
 
 <!-- TRENDING:END -->
