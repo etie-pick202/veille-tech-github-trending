@@ -40,34 +40,34 @@ Necessite Node.js >= 20 (utilise le `fetch` natif). Optionnel : exporter un
 
 <!-- TRENDING:START -->
 
-_Derniere mise a jour : 2026-09-29 13:54:42 UTC_
+_Derniere mise a jour : 2026-09-30 13:31:11 UTC_
 
 ### IA & LLM
 
-- [jev-chat/jev-chat-jarvis](https://github.com/jev-chat/jev-chat-jarvis) — 7076 ★
-- [KKKKhazix/AIHOT](https://github.com/KKKKhazix/AIHOT) — 2575 ★
-- [yetone/magpie](https://github.com/yetone/magpie) — 2046 ★
+- [jev-chat/jev-chat-jarvis](https://github.com/jev-chat/jev-chat-jarvis) — 7169 ★
+- [KKKKhazix/AIHOT](https://github.com/KKKKhazix/AIHOT) — 3888 ★
+- [yetone/magpie](https://github.com/yetone/magpie) — 3527 ★
 - [Rapport complet](trending/ai-llm.md)
 
 ### DevOps & Cloud
 
-- [mikehasa/golive-skill](https://github.com/mikehasa/golive-skill) — 1091 ★
-- [defitier-sdk/0audit.com](https://github.com/defitier-sdk/0audit.com) — 93 ★
-- [mtizima/docker-rollout-action](https://github.com/mtizima/docker-rollout-action) — 28 ★
+- [mikehasa/golive-skill](https://github.com/mikehasa/golive-skill) — 1138 ★
+- [defitier-sdk/0audit.com](https://github.com/defitier-sdk/0audit.com) — 95 ★
+- [mtizima/docker-rollout-action](https://github.com/mtizima/docker-rollout-action) — 68 ★
 - [Rapport complet](trending/devops-cloud.md)
 
 ### Backend (.NET / Go)
 
-- [yetone/magpie](https://github.com/yetone/magpie) — 2046 ★
-- [unreallabsai/unreal-agent](https://github.com/unreallabsai/unreal-agent) — 2022 ★
-- [kryvora-network/kryvora-node](https://github.com/kryvora-network/kryvora-node) — 1073 ★
+- [yetone/magpie](https://github.com/yetone/magpie) — 3527 ★
+- [unreallabsai/unreal-agent](https://github.com/unreallabsai/unreal-agent) — 2037 ★
+- [kryvora-network/kryvora-node](https://github.com/kryvora-network/kryvora-node) — 1120 ★
 - [Rapport complet](trending/backend-dotnet-go.md)
 
 ### Frontend (Next.js / React)
 
-- [liyupi/ai-model-world](https://github.com/liyupi/ai-model-world) — 203 ★
-- [GetBrew/growth-engineer](https://github.com/GetBrew/growth-engineer) — 108 ★
-- [fazlerocks/jevmail](https://github.com/fazlerocks/jevmail) — 90 ★
+- [liyupi/ai-model-world](https://github.com/liyupi/ai-model-world) — 208 ★
+- [fazlerocks/jevmail](https://github.com/fazlerocks/jevmail) — 91 ★
+- [kuratlielia/arc-library](https://github.com/kuratlielia/arc-library) — 70 ★
 - [Rapport complet](trending/frontend-nextjs-react.md)
 
 <!-- TRENDING:END -->
