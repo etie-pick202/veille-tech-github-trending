@@ -40,34 +40,34 @@ Necessite Node.js >= 20 (utilise le `fetch` natif). Optionnel : exporter un
 
 <!-- TRENDING:START -->
 
-_Derniere mise a jour : 2026-10-01 14:21:30 UTC_
+_Derniere mise a jour : 2026-10-02 13:43:26 UTC_
 
 ### IA & LLM
 
-- [jev-chat/jev-chat-jarvis](https://github.com/jev-chat/jev-chat-jarvis) — 7211 ★
-- [KKKKhazix/AIHOT](https://github.com/KKKKhazix/AIHOT) — 4444 ★
-- [yetone/magpie](https://github.com/yetone/magpie) — 4001 ★
+- [jev-chat/jev-chat-jarvis](https://github.com/jev-chat/jev-chat-jarvis) — 7252 ★
+- [KKKKhazix/AIHOT](https://github.com/KKKKhazix/AIHOT) — 4912 ★
+- [yetone/magpie](https://github.com/yetone/magpie) — 4209 ★
 - [Rapport complet](trending/ai-llm.md)
 
 ### DevOps & Cloud
 
-- [mikehasa/golive-skill](https://github.com/mikehasa/golive-skill) — 1152 ★
-- [defitier-sdk/0audit.com](https://github.com/defitier-sdk/0audit.com) — 98 ★
-- [upgundecha/awesome-cloud-emulators](https://github.com/upgundecha/awesome-cloud-emulators) — 38 ★
+- [mikehasa/golive-skill](https://github.com/mikehasa/golive-skill) — 1180 ★
+- [upgundecha/awesome-cloud-emulators](https://github.com/upgundecha/awesome-cloud-emulators) — 50 ★
+- [mtizima/docker-rollout-action](https://github.com/mtizima/docker-rollout-action) — 43 ★
 - [Rapport complet](trending/devops-cloud.md)
 
 ### Backend (.NET / Go)
 
-- [yetone/magpie](https://github.com/yetone/magpie) — 4001 ★
-- [unreallabsai/unreal-agent](https://github.com/unreallabsai/unreal-agent) — 2046 ★
-- [kryvora-network/kryvora-node](https://github.com/kryvora-network/kryvora-node) — 1146 ★
+- [yetone/magpie](https://github.com/yetone/magpie) — 4209 ★
+- [unreallabsai/unreal-agent](https://github.com/unreallabsai/unreal-agent) — 2050 ★
+- [kryvora-network/kryvora-node](https://github.com/kryvora-network/kryvora-node) — 1157 ★
 - [Rapport complet](trending/backend-dotnet-go.md)
 
 ### Frontend (Next.js / React)
 
-- [kuratlielia/arc-library](https://github.com/kuratlielia/arc-library) — 151 ★
-- [fazlerocks/jevmail](https://github.com/fazlerocks/jevmail) — 92 ★
-- [Jwuthri/SelfJev](https://github.com/Jwuthri/SelfJev) — 60 ★
+- [kuratlielia/arc-library](https://github.com/kuratlielia/arc-library) — 188 ★
+- [fazlerocks/jevmail](https://github.com/fazlerocks/jevmail) — 93 ★
+- [Jwuthri/SelfJev](https://github.com/Jwuthri/SelfJev) — 61 ★
 - [Rapport complet](trending/frontend-nextjs-react.md)
 
 <!-- TRENDING:END -->
