@@ -40,34 +40,34 @@ Necessite Node.js >= 20 (utilise le `fetch` natif). Optionnel : exporter un
 
 <!-- TRENDING:START -->
 
-_Derniere mise a jour : 2026-10-02 13:43:26 UTC_
+_Derniere mise a jour : 2026-10-03 12:23:17 UTC_
 
 ### IA & LLM
 
-- [jev-chat/jev-chat-jarvis](https://github.com/jev-chat/jev-chat-jarvis) — 7252 ★
-- [KKKKhazix/AIHOT](https://github.com/KKKKhazix/AIHOT) — 4912 ★
-- [yetone/magpie](https://github.com/yetone/magpie) — 4209 ★
+- [jev-chat/jev-chat-jarvis](https://github.com/jev-chat/jev-chat-jarvis) — 7282 ★
+- [KKKKhazix/AIHOT](https://github.com/KKKKhazix/AIHOT) — 5149 ★
+- [yetone/magpie](https://github.com/yetone/magpie) — 4389 ★
 - [Rapport complet](trending/ai-llm.md)
 
 ### DevOps & Cloud
 
-- [mikehasa/golive-skill](https://github.com/mikehasa/golive-skill) — 1180 ★
-- [upgundecha/awesome-cloud-emulators](https://github.com/upgundecha/awesome-cloud-emulators) — 50 ★
+- [mikehasa/golive-skill](https://github.com/mikehasa/golive-skill) — 1189 ★
+- [upgundecha/awesome-cloud-emulators](https://github.com/upgundecha/awesome-cloud-emulators) — 55 ★
 - [mtizima/docker-rollout-action](https://github.com/mtizima/docker-rollout-action) — 43 ★
 - [Rapport complet](trending/devops-cloud.md)
 
 ### Backend (.NET / Go)
 
-- [yetone/magpie](https://github.com/yetone/magpie) — 4209 ★
-- [unreallabsai/unreal-agent](https://github.com/unreallabsai/unreal-agent) — 2050 ★
-- [kryvora-network/kryvora-node](https://github.com/kryvora-network/kryvora-node) — 1157 ★
+- [yetone/magpie](https://github.com/yetone/magpie) — 4389 ★
+- [unreallabsai/unreal-agent](https://github.com/unreallabsai/unreal-agent) — 2056 ★
+- [kryvora-network/kryvora-node](https://github.com/kryvora-network/kryvora-node) — 1172 ★
 - [Rapport complet](trending/backend-dotnet-go.md)
 
 ### Frontend (Next.js / React)
 
-- [kuratlielia/arc-library](https://github.com/kuratlielia/arc-library) — 188 ★
-- [fazlerocks/jevmail](https://github.com/fazlerocks/jevmail) — 93 ★
-- [Jwuthri/SelfJev](https://github.com/Jwuthri/SelfJev) — 61 ★
+- [kuratlielia/arc-library](https://github.com/kuratlielia/arc-library) — 229 ★
+- [Jwuthri/SelfJev](https://github.com/Jwuthri/SelfJev) — 63 ★
+- [duke6290/FormAI-Coach](https://github.com/duke6290/FormAI-Coach) — 56 ★
 - [Rapport complet](trending/frontend-nextjs-react.md)
 
 <!-- TRENDING:END -->
