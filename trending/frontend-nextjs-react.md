@@ -1,16 +1,16 @@
 # Frontend (Next.js / React)
 
-Genere automatiquement le 2026-10-04 13:06:39 UTC — fenetre glissante de 14 jours.
+Genere automatiquement le 2026-10-05 15:46:39 UTC — fenetre glissante de 14 jours.
 
 | # | Repo | Etoiles | Langage | Description |
 |---|------|---------|---------|-------------|
-| 1 | [whirlchat/whirl](https://github.com/whirlchat/whirl) | 399 | TypeScript | The AI chat app that sweats the details. Every top model, real memory, living documents, and your own tools. |
-| 2 | [kuratlielia/arc-library](https://github.com/kuratlielia/arc-library) | 255 | TypeScript | Arc Library: free, open source React components with calm motion. Copy the code or install with the shadcn CLI. |
-| 3 | [Jwuthri/SelfJev](https://github.com/Jwuthri/SelfJev) | 68 | Python | Open decisions model with Jev's API: typed answers (yes/no, choice, score, multi) with probabilities from forward passes |
-| 4 | [duke6290/FormAI-Coach](https://github.com/duke6290/FormAI-Coach) | 56 | HTML | AI Form Coach for Perfect Workout Technique 2026 |
-| 5 | [katodoona/bfree-trainer-suite](https://github.com/katodoona/bfree-trainer-suite) | 56 | HTML | Bfree Smart Trainer App 2026: Open-Source Indoor Cycling AI Workout Planner for Cyclists |
-| 6 | [keithligh/hk-traffic-intelligence](https://github.com/keithligh/hk-traffic-intelligence) | 56 | TypeScript | A live Hong Kong smart-city dashboard on public APIs. Harbour crossing minutes, strategic-road speed, street cameras, wo |
-| 7 | [jarabb-biosfer/fifth-band-coin-flip](https://github.com/jarabb-biosfer/fifth-band-coin-flip) | 56 | HTML | Fifth Card Flip 2026: Best Open Source Poker Chip Allocator for Card Game Strategy |
-| 8 | [Abhaythakur7792/dhia-arfa-portfolio](https://github.com/Abhaythakur7792/dhia-arfa-portfolio) | 53 | HTML | Modern Developer Portfolio Website Template 2026: Responsive Personal Showcase |
-| 9 | [abdessamadhamdoun34-debug/full-stack-craft](https://github.com/abdessamadhamdoun34-debug/full-stack-craft) | 53 | HTML | Full Stack Web Developer Portfolio and Blog 2026: 10+ Years of Web Development Insights |
-| 10 | [amgad4302-maker/stress-accent-trainer](https://github.com/amgad4302-maker/stress-accent-trainer) | 53 | HTML | Russian Stress Patterns Trainer for EGE 2026: Smart Accent Practice App |
+| 1 | [whirlchat/whirl](https://github.com/whirlchat/whirl) | 468 | TypeScript | The AI chat app that sweats the details. Every top model, real memory, living documents, and your own tools. |
+| 2 | [kuratlielia/arc-library](https://github.com/kuratlielia/arc-library) | 304 | TypeScript | Arc Library: free, open source React components with calm motion. Copy the code or install with the shadcn CLI. |
+| 3 | [Jwuthri/SelfJev](https://github.com/Jwuthri/SelfJev) | 78 | Python | Open decisions model with Jev's API: typed answers (yes/no, choice, score, multi) with probabilities from forward passes |
+| 4 | [keithligh/hk-traffic-intelligence](https://github.com/keithligh/hk-traffic-intelligence) | 71 | TypeScript | A live Hong Kong smart-city dashboard on public APIs. Harbour crossing minutes, strategic-road speed, street cameras, wo |
+| 5 | [gillespiejameson/personal-finance-tracker](https://github.com/gillespiejameson/personal-finance-tracker) | 52 | TypeScript | Local-first personal finance tracker: CSV/OFX + SimpleFIN import, rules, budgets, safe-to-spend, net worth, forecasts. N |
+| 6 | [arjunkshah12345-hash/openpages](https://github.com/arjunkshah12345-hash/openpages) | 50 | TypeScript | Open-source AI workspace for humans and agents — SuperCompress as the core context layer. |
+| 7 | [zygiu-zygis/basecoat-ui-mcp](https://github.com/zygiu-zygis/basecoat-ui-mcp) | 46 | TypeScript | Offline MCP server for Basecoat UI (shadcn/ui look, no React): templates, macro layouts, theming/dark-mode contract, sta |
+| 8 | [btahir/shotcandy](https://github.com/btahir/shotcandy) | 38 | TypeScript | Free, open-source screenshot beautifier that runs in your browser. Backgrounds, device frames, batch export, multi-scree |
+| 9 | [niklasp/gpuslider](https://github.com/niklasp/gpuslider) | 28 | TypeScript | A slider drawn by shaders: WebGPU, or WebGL 2 where there is none. A 4.7 KB core, everything else a plugin. |
+| 10 | [ElasticEmail/elasticemail-examples](https://github.com/ElasticEmail/elasticemail-examples) | 22 | TypeScript | Real-world Elastic Email examples for transactional email, SMTP, webhooks, inbound email, contacts, serverless platforms |
