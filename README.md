@@ -40,34 +40,34 @@ Necessite Node.js >= 20 (utilise le `fetch` natif). Optionnel : exporter un
 
 <!-- TRENDING:START -->
 
-_Derniere mise a jour : 2026-10-05 15:46:39 UTC_
+_Derniere mise a jour : 2026-10-06 14:03:42 UTC_
 
 ### IA & LLM
 
-- [KKKKhazix/AIHOT](https://github.com/KKKKhazix/AIHOT) — 5960 ★
-- [yetone/magpie](https://github.com/yetone/magpie) — 5095 ★
-- [Ebony-Vinyl/dsh-our-free-model](https://github.com/Ebony-Vinyl/dsh-our-free-model) — 1570 ★
+- [KKKKhazix/AIHOT](https://github.com/KKKKhazix/AIHOT) — 6133 ★
+- [yetone/magpie](https://github.com/yetone/magpie) — 5376 ★
+- [Ebony-Vinyl/dsh-our-free-model](https://github.com/Ebony-Vinyl/dsh-our-free-model) — 1978 ★
 - [Rapport complet](trending/ai-llm.md)
 
 ### DevOps & Cloud
 
-- [mikehasa/golive-skill](https://github.com/mikehasa/golive-skill) — 1225 ★
-- [upgundecha/awesome-cloud-emulators](https://github.com/upgundecha/awesome-cloud-emulators) — 59 ★
-- [ProbiusOfficial/NexTerm](https://github.com/ProbiusOfficial/NexTerm) — 48 ★
+- [mikehasa/golive-skill](https://github.com/mikehasa/golive-skill) — 1229 ★
+- [upgundecha/awesome-cloud-emulators](https://github.com/upgundecha/awesome-cloud-emulators) — 60 ★
+- [ProbiusOfficial/NexTerm](https://github.com/ProbiusOfficial/NexTerm) — 49 ★
 - [Rapport complet](trending/devops-cloud.md)
 
 ### Backend (.NET / Go)
 
-- [yetone/magpie](https://github.com/yetone/magpie) — 5095 ★
-- [kryvora-network/kryvora-node](https://github.com/kryvora-network/kryvora-node) — 1231 ★
-- [egoist/mygo](https://github.com/egoist/mygo) — 581 ★
+- [yetone/magpie](https://github.com/yetone/magpie) — 5376 ★
+- [egoist/mygo](https://github.com/egoist/mygo) — 714 ★
+- [mizorewww/x_gift_bot](https://github.com/mizorewww/x_gift_bot) — 482 ★
 - [Rapport complet](trending/backend-dotnet-go.md)
 
 ### Frontend (Next.js / React)
 
-- [whirlchat/whirl](https://github.com/whirlchat/whirl) — 468 ★
-- [kuratlielia/arc-library](https://github.com/kuratlielia/arc-library) — 304 ★
-- [Jwuthri/SelfJev](https://github.com/Jwuthri/SelfJev) — 78 ★
+- [whirlchat/whirl](https://github.com/whirlchat/whirl) — 487 ★
+- [kuratlielia/arc-library](https://github.com/kuratlielia/arc-library) — 332 ★
+- [Jwuthri/SelfJev](https://github.com/Jwuthri/SelfJev) — 81 ★
 - [Rapport complet](trending/frontend-nextjs-react.md)
 
 <!-- TRENDING:END -->
