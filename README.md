@@ -40,13 +40,13 @@ Necessite Node.js >= 20 (utilise le `fetch` natif). Optionnel : exporter un
 
 <!-- TRENDING:START -->
 
-_Derniere mise a jour : 2026-10-07 14:21:30 UTC_
+_Derniere mise a jour : 2026-10-08 14:29:17 UTC_
 
 ### IA & LLM
 
-- [KKKKhazix/AIHOT](https://github.com/KKKKhazix/AIHOT) — 6342 ★
-- [Ebony-Vinyl/dsh-our-free-model](https://github.com/Ebony-Vinyl/dsh-our-free-model) — 3167 ★
-- [QingYunA/answer-me-with-html](https://github.com/QingYunA/answer-me-with-html) — 1968 ★
+- [KKKKhazix/AIHOT](https://github.com/KKKKhazix/AIHOT) — 6678 ★
+- [QingYunA/answer-me-with-html](https://github.com/QingYunA/answer-me-with-html) — 2304 ★
+- [nanaism/yomiyasu](https://github.com/nanaism/yomiyasu) — 1754 ★
 - [Rapport complet](trending/ai-llm.md)
 
 ### DevOps & Cloud
@@ -58,16 +58,16 @@ _Derniere mise a jour : 2026-10-07 14:21:30 UTC_
 
 ### Backend (.NET / Go)
 
-- [egoist/mygo](https://github.com/egoist/mygo) — 865 ★
-- [mizorewww/x_gift_bot](https://github.com/mizorewww/x_gift_bot) — 825 ★
-- [Calcium-Ion/moejs](https://github.com/Calcium-Ion/moejs) — 226 ★
+- [mizorewww/x_gift_bot](https://github.com/mizorewww/x_gift_bot) — 1050 ★
+- [egoist/mygo](https://github.com/egoist/mygo) — 1029 ★
+- [jiwoochris/artex-ko](https://github.com/jiwoochris/artex-ko) — 565 ★
 - [Rapport complet](trending/backend-dotnet-go.md)
 
 ### Frontend (Next.js / React)
 
-- [whirlchat/whirl](https://github.com/whirlchat/whirl) — 492 ★
-- [kuratlielia/arc-library](https://github.com/kuratlielia/arc-library) — 353 ★
-- [Local-Settle/local-settle-frontend](https://github.com/Local-Settle/local-settle-frontend) — 131 ★
+- [bas3line/ascii](https://github.com/bas3line/ascii) — 505 ★
+- [whirlchat/whirl](https://github.com/whirlchat/whirl) — 502 ★
+- [OrgoAI/bops](https://github.com/OrgoAI/bops) — 194 ★
 - [Rapport complet](trending/frontend-nextjs-react.md)
 
 <!-- TRENDING:END -->
