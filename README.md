@@ -40,34 +40,34 @@ Necessite Node.js >= 20 (utilise le `fetch` natif). Optionnel : exporter un
 
 <!-- TRENDING:START -->
 
-_Derniere mise a jour : 2026-10-09 14:16:16 UTC_
+_Derniere mise a jour : 2026-10-10 13:28:58 UTC_
 
 ### IA & LLM
 
-- [KKKKhazix/AIHOT](https://github.com/KKKKhazix/AIHOT) — 6884 ★
-- [QingYunA/answer-me-with-html](https://github.com/QingYunA/answer-me-with-html) — 2454 ★
-- [nanaism/yomiyasu](https://github.com/nanaism/yomiyasu) — 1796 ★
+- [KKKKhazix/AIHOT](https://github.com/KKKKhazix/AIHOT) — 7029 ★
+- [QingYunA/answer-me-with-html](https://github.com/QingYunA/answer-me-with-html) — 2688 ★
+- [nanaism/yomiyasu](https://github.com/nanaism/yomiyasu) — 1825 ★
 - [Rapport complet](trending/ai-llm.md)
 
 ### DevOps & Cloud
 
 - [upgundecha/awesome-cloud-emulators](https://github.com/upgundecha/awesome-cloud-emulators) — 60 ★
 - [Hello-CTF/NexTerm](https://github.com/Hello-CTF/NexTerm) — 54 ★
-- [TrainWithShubham/tws-labs](https://github.com/TrainWithShubham/tws-labs) — 17 ★
+- [TrainWithShubham/tws-labs](https://github.com/TrainWithShubham/tws-labs) — 18 ★
 - [Rapport complet](trending/devops-cloud.md)
 
 ### Backend (.NET / Go)
 
-- [mhtsec/ARTEX](https://github.com/mhtsec/ARTEX) — 1950 ★
-- [egoist/mygo](https://github.com/egoist/mygo) — 1212 ★
-- [mizorewww/x_gift_bot](https://github.com/mizorewww/x_gift_bot) — 1118 ★
+- [mhtsec/ARTEX](https://github.com/mhtsec/ARTEX) — 2767 ★
+- [mizorewww/x_gift_bot](https://github.com/mizorewww/x_gift_bot) — 1151 ★
+- [jiwoochris/artex-ko](https://github.com/jiwoochris/artex-ko) — 920 ★
 - [Rapport complet](trending/backend-dotnet-go.md)
 
 ### Frontend (Next.js / React)
 
-- [bas3line/ascii](https://github.com/bas3line/ascii) — 648 ★
+- [bas3line/ascii](https://github.com/bas3line/ascii) — 697 ★
 - [whirlchat/whirl](https://github.com/whirlchat/whirl) — 504 ★
-- [OrgoAI/bops](https://github.com/OrgoAI/bops) — 228 ★
+- [OrgoAI/bops](https://github.com/OrgoAI/bops) — 243 ★
 - [Rapport complet](trending/frontend-nextjs-react.md)
 
 <!-- TRENDING:END -->
