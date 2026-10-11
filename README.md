@@ -40,34 +40,34 @@ Necessite Node.js >= 20 (utilise le `fetch` natif). Optionnel : exporter un
 
 <!-- TRENDING:START -->
 
-_Derniere mise a jour : 2026-10-10 13:28:58 UTC_
+_Derniere mise a jour : 2026-10-11 13:53:15 UTC_
 
 ### IA & LLM
 
-- [KKKKhazix/AIHOT](https://github.com/KKKKhazix/AIHOT) — 7029 ★
-- [QingYunA/answer-me-with-html](https://github.com/QingYunA/answer-me-with-html) — 2688 ★
-- [nanaism/yomiyasu](https://github.com/nanaism/yomiyasu) — 1825 ★
+- [KKKKhazix/AIHOT](https://github.com/KKKKhazix/AIHOT) — 7141 ★
+- [QingYunA/answer-me-with-html](https://github.com/QingYunA/answer-me-with-html) — 2867 ★
+- [LosaLosSantos/aurelio-finance](https://github.com/LosaLosSantos/aurelio-finance) — 2107 ★
 - [Rapport complet](trending/ai-llm.md)
 
 ### DevOps & Cloud
 
 - [upgundecha/awesome-cloud-emulators](https://github.com/upgundecha/awesome-cloud-emulators) — 60 ★
-- [Hello-CTF/NexTerm](https://github.com/Hello-CTF/NexTerm) — 54 ★
-- [TrainWithShubham/tws-labs](https://github.com/TrainWithShubham/tws-labs) — 18 ★
+- [TrainWithShubham/tws-labs](https://github.com/TrainWithShubham/tws-labs) — 19 ★
+- [pnnnhan99/awesome-free-dev-tools](https://github.com/pnnnhan99/awesome-free-dev-tools) — 12 ★
 - [Rapport complet](trending/devops-cloud.md)
 
 ### Backend (.NET / Go)
 
-- [mhtsec/ARTEX](https://github.com/mhtsec/ARTEX) — 2767 ★
-- [mizorewww/x_gift_bot](https://github.com/mizorewww/x_gift_bot) — 1151 ★
-- [jiwoochris/artex-ko](https://github.com/jiwoochris/artex-ko) — 920 ★
+- [mhtsec/ARTEX](https://github.com/mhtsec/ARTEX) — 3073 ★
+- [mizorewww/x_gift_bot](https://github.com/mizorewww/x_gift_bot) — 1187 ★
+- [jiwoochris/artex-ko](https://github.com/jiwoochris/artex-ko) — 1114 ★
 - [Rapport complet](trending/backend-dotnet-go.md)
 
 ### Frontend (Next.js / React)
 
-- [bas3line/ascii](https://github.com/bas3line/ascii) — 697 ★
-- [whirlchat/whirl](https://github.com/whirlchat/whirl) — 504 ★
-- [OrgoAI/bops](https://github.com/OrgoAI/bops) — 243 ★
+- [bas3line/ascii](https://github.com/bas3line/ascii) — 738 ★
+- [whirlchat/whirl](https://github.com/whirlchat/whirl) — 505 ★
+- [OrgoAI/bops](https://github.com/OrgoAI/bops) — 250 ★
 - [Rapport complet](trending/frontend-nextjs-react.md)
 
 <!-- TRENDING:END -->
