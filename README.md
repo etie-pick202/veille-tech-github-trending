@@ -40,34 +40,34 @@ Necessite Node.js >= 20 (utilise le `fetch` natif). Optionnel : exporter un
 
 <!-- TRENDING:START -->
 
-_Derniere mise a jour : 2026-10-14 12:46:56 UTC_
+_Derniere mise a jour : 2026-10-15 12:33:46 UTC_
 
 ### IA & LLM
 
-- [LosaLosSantos/aurelio-finance](https://github.com/LosaLosSantos/aurelio-finance) — 3379 ★
-- [QingYunA/answer-me-with-html](https://github.com/QingYunA/answer-me-with-html) — 3341 ★
-- [onehumanbeing/esp32-iphone-agent](https://github.com/onehumanbeing/esp32-iphone-agent) — 1948 ★
+- [QingYunA/answer-me-with-html](https://github.com/QingYunA/answer-me-with-html) — 3425 ★
+- [LosaLosSantos/aurelio-finance](https://github.com/LosaLosSantos/aurelio-finance) — 3372 ★
+- [onehumanbeing/esp32-iphone-agent](https://github.com/onehumanbeing/esp32-iphone-agent) — 2267 ★
 - [Rapport complet](trending/ai-llm.md)
 
 ### DevOps & Cloud
 
-- [ahmadjawad533/90-days-of-cloud-engineering](https://github.com/ahmadjawad533/90-days-of-cloud-engineering) — 28 ★
+- [ahmadjawad533/90-days-of-cloud-engineering](https://github.com/ahmadjawad533/90-days-of-cloud-engineering) — 29 ★
 - [wisecort/LogDeck](https://github.com/wisecort/LogDeck) — 27 ★
-- [TrainWithShubham/tws-labs](https://github.com/TrainWithShubham/tws-labs) — 21 ★
+- [TrainWithShubham/tws-labs](https://github.com/TrainWithShubham/tws-labs) — 22 ★
 - [Rapport complet](trending/devops-cloud.md)
 
 ### Backend (.NET / Go)
 
-- [mhtsec/ARTEX](https://github.com/mhtsec/ARTEX) — 4025 ★
-- [jiwoochris/artex-global](https://github.com/jiwoochris/artex-global) — 1477 ★
-- [mizorewww/x_gift_bot](https://github.com/mizorewww/x_gift_bot) — 1242 ★
+- [mhtsec/ARTEX](https://github.com/mhtsec/ARTEX) — 4221 ★
+- [jiwoochris/artex-global](https://github.com/jiwoochris/artex-global) — 1524 ★
+- [mizorewww/x_gift_bot](https://github.com/mizorewww/x_gift_bot) — 1244 ★
 - [Rapport complet](trending/backend-dotnet-go.md)
 
 ### Frontend (Next.js / React)
 
-- [bas3line/ascii](https://github.com/bas3line/ascii) — 843 ★
-- [whirlchat/whirl](https://github.com/whirlchat/whirl) — 508 ★
-- [juliobsz/skills](https://github.com/juliobsz/skills) — 326 ★
+- [marclou/mailcheap](https://github.com/marclou/mailcheap) — 940 ★
+- [bas3line/ascii](https://github.com/bas3line/ascii) — 866 ★
+- [whirlchat/whirl](https://github.com/whirlchat/whirl) — 507 ★
 - [Rapport complet](trending/frontend-nextjs-react.md)
 
 <!-- TRENDING:END -->
