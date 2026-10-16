@@ -40,34 +40,34 @@ Necessite Node.js >= 20 (utilise le `fetch` natif). Optionnel : exporter un
 
 <!-- TRENDING:START -->
 
-_Derniere mise a jour : 2026-10-15 12:33:46 UTC_
+_Derniere mise a jour : 2026-10-16 12:13:01 UTC_
 
 ### IA & LLM
 
-- [QingYunA/answer-me-with-html](https://github.com/QingYunA/answer-me-with-html) — 3425 ★
-- [LosaLosSantos/aurelio-finance](https://github.com/LosaLosSantos/aurelio-finance) — 3372 ★
-- [onehumanbeing/esp32-iphone-agent](https://github.com/onehumanbeing/esp32-iphone-agent) — 2267 ★
+- [LosaLosSantos/aurelio-finance](https://github.com/LosaLosSantos/aurelio-finance) — 3938 ★
+- [onehumanbeing/esp32-iphone-agent](https://github.com/onehumanbeing/esp32-iphone-agent) — 2754 ★
+- [jiwoochris/artex-global](https://github.com/jiwoochris/artex-global) — 1569 ★
 - [Rapport complet](trending/ai-llm.md)
 
 ### DevOps & Cloud
 
-- [ahmadjawad533/90-days-of-cloud-engineering](https://github.com/ahmadjawad533/90-days-of-cloud-engineering) — 29 ★
+- [ahmadjawad533/90-days-of-cloud-engineering](https://github.com/ahmadjawad533/90-days-of-cloud-engineering) — 30 ★
 - [wisecort/LogDeck](https://github.com/wisecort/LogDeck) — 27 ★
-- [TrainWithShubham/tws-labs](https://github.com/TrainWithShubham/tws-labs) — 22 ★
+- [NicholasFlemmer/styx-app](https://github.com/NicholasFlemmer/styx-app) — 21 ★
 - [Rapport complet](trending/devops-cloud.md)
 
 ### Backend (.NET / Go)
 
-- [mhtsec/ARTEX](https://github.com/mhtsec/ARTEX) — 4221 ★
-- [jiwoochris/artex-global](https://github.com/jiwoochris/artex-global) — 1524 ★
-- [mizorewww/x_gift_bot](https://github.com/mizorewww/x_gift_bot) — 1244 ★
+- [mhtsec/ARTEX](https://github.com/mhtsec/ARTEX) — 4373 ★
+- [jiwoochris/artex-global](https://github.com/jiwoochris/artex-global) — 1569 ★
+- [trhhubsd/ARTEX](https://github.com/trhhubsd/ARTEX) — 1204 ★
 - [Rapport complet](trending/backend-dotnet-go.md)
 
 ### Frontend (Next.js / React)
 
-- [marclou/mailcheap](https://github.com/marclou/mailcheap) — 940 ★
-- [bas3line/ascii](https://github.com/bas3line/ascii) — 866 ★
-- [whirlchat/whirl](https://github.com/whirlchat/whirl) — 507 ★
+- [marclou/mailcheap](https://github.com/marclou/mailcheap) — 1100 ★
+- [bas3line/ascii](https://github.com/bas3line/ascii) — 883 ★
+- [thesysdev/open-intelligent-ui](https://github.com/thesysdev/open-intelligent-ui) — 429 ★
 - [Rapport complet](trending/frontend-nextjs-react.md)
 
 <!-- TRENDING:END -->
