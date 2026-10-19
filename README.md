@@ -40,34 +40,34 @@ Necessite Node.js >= 20 (utilise le `fetch` natif). Optionnel : exporter un
 
 <!-- TRENDING:START -->
 
-_Derniere mise a jour : 2026-10-18 11:59:42 UTC_
+_Derniere mise a jour : 2026-10-19 14:31:13 UTC_
 
 ### IA & LLM
 
-- [LosaLosSantos/aurelio-finance](https://github.com/LosaLosSantos/aurelio-finance) — 3953 ★
-- [onehumanbeing/esp32-iphone-agent](https://github.com/onehumanbeing/esp32-iphone-agent) — 3055 ★
-- [deeplethe/solid-glass](https://github.com/deeplethe/solid-glass) — 2001 ★
+- [LosaLosSantos/aurelio-finance](https://github.com/LosaLosSantos/aurelio-finance) — 3972 ★
+- [onehumanbeing/esp32-iphone-agent](https://github.com/onehumanbeing/esp32-iphone-agent) — 3247 ★
+- [deeplethe/solid-glass](https://github.com/deeplethe/solid-glass) — 2271 ★
 - [Rapport complet](trending/ai-llm.md)
 
 ### DevOps & Cloud
 
-- [zzusec/forkiq](https://github.com/zzusec/forkiq) — 122 ★
-- [ahmadjawad533/90-days-of-cloud-engineering](https://github.com/ahmadjawad533/90-days-of-cloud-engineering) — 34 ★
+- [zzusec/forkiq](https://github.com/zzusec/forkiq) — 132 ★
+- [ahmadjawad533/90-days-of-cloud-engineering](https://github.com/ahmadjawad533/90-days-of-cloud-engineering) — 35 ★
 - [wisecort/LogDeck](https://github.com/wisecort/LogDeck) — 27 ★
 - [Rapport complet](trending/devops-cloud.md)
 
 ### Backend (.NET / Go)
 
-- [trhhubsd/ARTEX](https://github.com/trhhubsd/ARTEX) — 1235 ★
-- [feder-cr/git-ai](https://github.com/feder-cr/git-ai) — 1161 ★
-- [rohit267/net-merge](https://github.com/rohit267/net-merge) — 951 ★
+- [feder-cr/git-ai](https://github.com/feder-cr/git-ai) — 2398 ★
+- [trhhubsd/ARTEX](https://github.com/trhhubsd/ARTEX) — 1304 ★
+- [rohit267/net-merge](https://github.com/rohit267/net-merge) — 1252 ★
 - [Rapport complet](trending/backend-dotnet-go.md)
 
 ### Frontend (Next.js / React)
 
-- [marclou/mailcheap](https://github.com/marclou/mailcheap) — 1217 ★
-- [bas3line/ascii](https://github.com/bas3line/ascii) — 913 ★
-- [thesysdev/open-intelligent-ui](https://github.com/thesysdev/open-intelligent-ui) — 530 ★
+- [trhhubsd/ARTEX](https://github.com/trhhubsd/ARTEX) — 1304 ★
+- [marclou/mailcheap](https://github.com/marclou/mailcheap) — 1246 ★
+- [bas3line/ascii](https://github.com/bas3line/ascii) — 930 ★
 - [Rapport complet](trending/frontend-nextjs-react.md)
 
 <!-- TRENDING:END -->
