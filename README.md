@@ -40,34 +40,34 @@ Necessite Node.js >= 20 (utilise le `fetch` natif). Optionnel : exporter un
 
 <!-- TRENDING:START -->
 
-_Derniere mise a jour : 2026-10-20 12:38:16 UTC_
+_Derniere mise a jour : 2026-10-21 12:49:59 UTC_
 
 ### IA & LLM
 
-- [onehumanbeing/esp32-iphone-agent](https://github.com/onehumanbeing/esp32-iphone-agent) — 3363 ★
-- [deeplethe/solid-glass](https://github.com/deeplethe/solid-glass) — 2390 ★
-- [trhhubsd/ARTEX](https://github.com/trhhubsd/ARTEX) — 1411 ★
+- [onehumanbeing/esp32-iphone-agent](https://github.com/onehumanbeing/esp32-iphone-agent) — 3458 ★
+- [deeplethe/solid-glass](https://github.com/deeplethe/solid-glass) — 2096 ★
+- [trhhubsd/ARTEX](https://github.com/trhhubsd/ARTEX) — 1528 ★
 - [Rapport complet](trending/ai-llm.md)
 
 ### DevOps & Cloud
 
-- [zzusec/forkiq](https://github.com/zzusec/forkiq) — 139 ★
+- [zzusec/forkiq](https://github.com/zzusec/forkiq) — 140 ★
+- [dharmendradevops11/the-self-healing-pipeline](https://github.com/dharmendradevops11/the-self-healing-pipeline) — 47 ★
 - [ahmadjawad533/90-days-of-cloud-engineering](https://github.com/ahmadjawad533/90-days-of-cloud-engineering) — 36 ★
-- [dharmendradevops11/the-self-healing-pipeline](https://github.com/dharmendradevops11/the-self-healing-pipeline) — 35 ★
 - [Rapport complet](trending/devops-cloud.md)
 
 ### Backend (.NET / Go)
 
-- [feder-cr/git-ai](https://github.com/feder-cr/git-ai) — 2527 ★
-- [rohit267/net-merge](https://github.com/rohit267/net-merge) — 1437 ★
-- [trhhubsd/ARTEX](https://github.com/trhhubsd/ARTEX) — 1411 ★
+- [trhhubsd/ARTEX](https://github.com/trhhubsd/ARTEX) — 1528 ★
+- [rohit267/net-merge](https://github.com/rohit267/net-merge) — 1527 ★
+- [Hinln/ARTEX](https://github.com/Hinln/ARTEX) — 909 ★
 - [Rapport complet](trending/backend-dotnet-go.md)
 
 ### Frontend (Next.js / React)
 
-- [trhhubsd/ARTEX](https://github.com/trhhubsd/ARTEX) — 1411 ★
-- [marclou/mailcheap](https://github.com/marclou/mailcheap) — 1263 ★
-- [bas3line/ascii](https://github.com/bas3line/ascii) — 946 ★
+- [trhhubsd/ARTEX](https://github.com/trhhubsd/ARTEX) — 1528 ★
+- [marclou/mailcheap](https://github.com/marclou/mailcheap) — 1281 ★
+- [juliobsz/skills](https://github.com/juliobsz/skills) — 822 ★
 - [Rapport complet](trending/frontend-nextjs-react.md)
 
 <!-- TRENDING:END -->
