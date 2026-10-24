@@ -40,34 +40,34 @@ Necessite Node.js >= 20 (utilise le `fetch` natif). Optionnel : exporter un
 
 <!-- TRENDING:START -->
 
-_Derniere mise a jour : 2026-10-23 12:31:18 UTC_
+_Derniere mise a jour : 2026-10-24 11:55:04 UTC_
 
 ### IA & LLM
 
-- [onehumanbeing/esp32-iphone-agent](https://github.com/onehumanbeing/esp32-iphone-agent) — 3608 ★
-- [deeplethe/solid-glass](https://github.com/deeplethe/solid-glass) — 2126 ★
-- [Ayzzz123/mcd-coupon-strategist](https://github.com/Ayzzz123/mcd-coupon-strategist) — 942 ★
+- [onehumanbeing/esp32-iphone-agent](https://github.com/onehumanbeing/esp32-iphone-agent) — 3719 ★
+- [deeplethe/solid-glass](https://github.com/deeplethe/solid-glass) — 2193 ★
+- [outcrawlai/scout](https://github.com/outcrawlai/scout) — 937 ★
 - [Rapport complet](trending/ai-llm.md)
 
 ### DevOps & Cloud
 
-- [zzusec/forkiq](https://github.com/zzusec/forkiq) — 145 ★
-- [dharmendradevops11/the-self-healing-pipeline](https://github.com/dharmendradevops11/the-self-healing-pipeline) — 64 ★
-- [Rocky-true/vmware-to-kubernetes](https://github.com/Rocky-true/vmware-to-kubernetes) — 50 ★
+- [zzusec/forkiq](https://github.com/zzusec/forkiq) — 148 ★
+- [dharmendradevops11/the-self-healing-pipeline](https://github.com/dharmendradevops11/the-self-healing-pipeline) — 69 ★
+- [Rocky-true/vmware-to-kubernetes](https://github.com/Rocky-true/vmware-to-kubernetes) — 66 ★
 - [Rapport complet](trending/devops-cloud.md)
 
 ### Backend (.NET / Go)
 
-- [rohit267/net-merge](https://github.com/rohit267/net-merge) — 1877 ★
-- [feder-cr/git-ai](https://github.com/feder-cr/git-ai) — 974 ★
-- [useopendesk/opendesk](https://github.com/useopendesk/opendesk) — 436 ★
+- [rohit267/net-merge](https://github.com/rohit267/net-merge) — 2058 ★
+- [feder-cr/git-ai](https://github.com/feder-cr/git-ai) — 984 ★
+- [useopendesk/opendesk](https://github.com/useopendesk/opendesk) — 440 ★
 - [Rapport complet](trending/backend-dotnet-go.md)
 
 ### Frontend (Next.js / React)
 
-- [marclou/mailcheap](https://github.com/marclou/mailcheap) — 1315 ★
-- [juliobsz/skills](https://github.com/juliobsz/skills) — 902 ★
-- [SouravBeraAkaSpeed/xiryn](https://github.com/SouravBeraAkaSpeed/xiryn) — 298 ★
+- [juliobsz/skills](https://github.com/juliobsz/skills) — 926 ★
+- [SouravBeraAkaSpeed/xiryn](https://github.com/SouravBeraAkaSpeed/xiryn) — 308 ★
+- [dsmurrell/onkey](https://github.com/dsmurrell/onkey) — 259 ★
 - [Rapport complet](trending/frontend-nextjs-react.md)
 
 <!-- TRENDING:END -->
