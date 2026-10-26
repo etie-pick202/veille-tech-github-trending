@@ -40,33 +40,33 @@ Necessite Node.js >= 20 (utilise le `fetch` natif). Optionnel : exporter un
 
 <!-- TRENDING:START -->
 
-_Derniere mise a jour : 2026-10-25 12:26:34 UTC_
+_Derniere mise a jour : 2026-10-26 14:03:36 UTC_
 
 ### IA & LLM
 
-- [deeplethe/solid-glass](https://github.com/deeplethe/solid-glass) — 2210 ★
-- [outcrawlai/scout](https://github.com/outcrawlai/scout) — 938 ★
-- [heqiangdiao-wq/AI-Cross-Border-Ecommerce-Agent-Toolkit](https://github.com/heqiangdiao-wq/AI-Cross-Border-Ecommerce-Agent-Toolkit) — 650 ★
+- [outcrawlai/scout](https://github.com/outcrawlai/scout) — 939 ★
+- [heqiangdiao-wq/AI-Cross-Border-Ecommerce-Agent-Toolkit](https://github.com/heqiangdiao-wq/AI-Cross-Border-Ecommerce-Agent-Toolkit) — 691 ★
+- [liuda30201/AI-Coding](https://github.com/liuda30201/AI-Coding) — 414 ★
 - [Rapport complet](trending/ai-llm.md)
 
 ### DevOps & Cloud
 
-- [zzusec/forkiq](https://github.com/zzusec/forkiq) — 150 ★
-- [Rocky-true/vmware-to-kubernetes](https://github.com/Rocky-true/vmware-to-kubernetes) — 88 ★
-- [dharmendradevops11/the-self-healing-pipeline](https://github.com/dharmendradevops11/the-self-healing-pipeline) — 74 ★
+- [Rocky-true/vmware-to-kubernetes](https://github.com/Rocky-true/vmware-to-kubernetes) — 101 ★
+- [dharmendradevops11/the-self-healing-pipeline](https://github.com/dharmendradevops11/the-self-healing-pipeline) — 77 ★
+- [XZaganev/rpocket-team-deadlock-counterpicker](https://github.com/XZaganev/rpocket-team-deadlock-counterpicker) — 54 ★
 - [Rapport complet](trending/devops-cloud.md)
 
 ### Backend (.NET / Go)
 
-- [rohit267/net-merge](https://github.com/rohit267/net-merge) — 2186 ★
-- [feder-cr/git-ai](https://github.com/feder-cr/git-ai) — 996 ★
-- [wangwanjie/gately](https://github.com/wangwanjie/gately) — 377 ★
+- [feder-cr/git-ai](https://github.com/feder-cr/git-ai) — 992 ★
+- [wangwanjie/gately](https://github.com/wangwanjie/gately) — 398 ★
+- [DrWhax/unfairplay](https://github.com/DrWhax/unfairplay) — 350 ★
 - [Rapport complet](trending/backend-dotnet-go.md)
 
 ### Frontend (Next.js / React)
 
-- [juliobsz/skills](https://github.com/juliobsz/skills) — 942 ★
-- [dsmurrell/onkey](https://github.com/dsmurrell/onkey) — 301 ★
+- [dsmurrell/onkey](https://github.com/dsmurrell/onkey) — 320 ★
+- [winnin/farol](https://github.com/winnin/farol) — 131 ★
 - [yaojingang/profound-clone](https://github.com/yaojingang/profound-clone) — 80 ★
 - [Rapport complet](trending/frontend-nextjs-react.md)
 
