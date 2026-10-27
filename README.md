@@ -40,33 +40,33 @@ Necessite Node.js >= 20 (utilise le `fetch` natif). Optionnel : exporter un
 
 <!-- TRENDING:START -->
 
-_Derniere mise a jour : 2026-10-26 14:03:36 UTC_
+_Derniere mise a jour : 2026-10-27 13:05:22 UTC_
 
 ### IA & LLM
 
-- [outcrawlai/scout](https://github.com/outcrawlai/scout) — 939 ★
-- [heqiangdiao-wq/AI-Cross-Border-Ecommerce-Agent-Toolkit](https://github.com/heqiangdiao-wq/AI-Cross-Border-Ecommerce-Agent-Toolkit) — 691 ★
-- [liuda30201/AI-Coding](https://github.com/liuda30201/AI-Coding) — 414 ★
+- [liuda30201/AI-Coding](https://github.com/liuda30201/AI-Coding) — 443 ★
+- [MemTensor/MemT-1.0](https://github.com/MemTensor/MemT-1.0) — 428 ★
+- [C4rohan/Lampline](https://github.com/C4rohan/Lampline) — 380 ★
 - [Rapport complet](trending/ai-llm.md)
 
 ### DevOps & Cloud
 
-- [Rocky-true/vmware-to-kubernetes](https://github.com/Rocky-true/vmware-to-kubernetes) — 101 ★
-- [dharmendradevops11/the-self-healing-pipeline](https://github.com/dharmendradevops11/the-self-healing-pipeline) — 77 ★
+- [Rocky-true/vmware-to-kubernetes](https://github.com/Rocky-true/vmware-to-kubernetes) — 117 ★
 - [XZaganev/rpocket-team-deadlock-counterpicker](https://github.com/XZaganev/rpocket-team-deadlock-counterpicker) — 54 ★
+- [codician-team/diffinery](https://github.com/codician-team/diffinery) — 48 ★
 - [Rapport complet](trending/devops-cloud.md)
 
 ### Backend (.NET / Go)
 
-- [feder-cr/git-ai](https://github.com/feder-cr/git-ai) — 992 ★
-- [wangwanjie/gately](https://github.com/wangwanjie/gately) — 398 ★
-- [DrWhax/unfairplay](https://github.com/DrWhax/unfairplay) — 350 ★
+- [feder-cr/git-ai](https://github.com/feder-cr/git-ai) — 1004 ★
+- [DrWhax/unfairplay](https://github.com/DrWhax/unfairplay) — 617 ★
+- [wangwanjie/gately](https://github.com/wangwanjie/gately) — 403 ★
 - [Rapport complet](trending/backend-dotnet-go.md)
 
 ### Frontend (Next.js / React)
 
-- [dsmurrell/onkey](https://github.com/dsmurrell/onkey) — 320 ★
-- [winnin/farol](https://github.com/winnin/farol) — 131 ★
+- [dsmurrell/onkey](https://github.com/dsmurrell/onkey) — 335 ★
+- [winnin/farol](https://github.com/winnin/farol) — 144 ★
 - [yaojingang/profound-clone](https://github.com/yaojingang/profound-clone) — 80 ★
 - [Rapport complet](trending/frontend-nextjs-react.md)
 
