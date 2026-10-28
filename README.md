@@ -40,34 +40,34 @@ Necessite Node.js >= 20 (utilise le `fetch` natif). Optionnel : exporter un
 
 <!-- TRENDING:START -->
 
-_Derniere mise a jour : 2026-10-27 13:05:22 UTC_
+_Derniere mise a jour : 2026-10-28 13:55:24 UTC_
 
 ### IA & LLM
 
-- [liuda30201/AI-Coding](https://github.com/liuda30201/AI-Coding) — 443 ★
-- [MemTensor/MemT-1.0](https://github.com/MemTensor/MemT-1.0) — 428 ★
-- [C4rohan/Lampline](https://github.com/C4rohan/Lampline) — 380 ★
+- [liuda30201/AI-Coding](https://github.com/liuda30201/AI-Coding) — 487 ★
+- [MemTensor/MemT-1.0](https://github.com/MemTensor/MemT-1.0) — 452 ★
+- [eliasbiondo/antirion](https://github.com/eliasbiondo/antirion) — 397 ★
 - [Rapport complet](trending/ai-llm.md)
 
 ### DevOps & Cloud
 
-- [Rocky-true/vmware-to-kubernetes](https://github.com/Rocky-true/vmware-to-kubernetes) — 117 ★
-- [XZaganev/rpocket-team-deadlock-counterpicker](https://github.com/XZaganev/rpocket-team-deadlock-counterpicker) — 54 ★
-- [codician-team/diffinery](https://github.com/codician-team/diffinery) — 48 ★
+- [Rocky-true/vmware-to-kubernetes](https://github.com/Rocky-true/vmware-to-kubernetes) — 142 ★
+- [sanjayadanushka712/TaskFlow](https://github.com/sanjayadanushka712/TaskFlow) — 80 ★
+- [codician-team/diffinery](https://github.com/codician-team/diffinery) — 61 ★
 - [Rapport complet](trending/devops-cloud.md)
 
 ### Backend (.NET / Go)
 
-- [feder-cr/git-ai](https://github.com/feder-cr/git-ai) — 1004 ★
-- [DrWhax/unfairplay](https://github.com/DrWhax/unfairplay) — 617 ★
-- [wangwanjie/gately](https://github.com/wangwanjie/gately) — 403 ★
+- [feder-cr/git-ai](https://github.com/feder-cr/git-ai) — 1011 ★
+- [DrWhax/unfairplay](https://github.com/DrWhax/unfairplay) — 694 ★
+- [armanlife/firefox-vpn-client](https://github.com/armanlife/firefox-vpn-client) — 451 ★
 - [Rapport complet](trending/backend-dotnet-go.md)
 
 ### Frontend (Next.js / React)
 
-- [dsmurrell/onkey](https://github.com/dsmurrell/onkey) — 335 ★
-- [winnin/farol](https://github.com/winnin/farol) — 144 ★
-- [yaojingang/profound-clone](https://github.com/yaojingang/profound-clone) — 80 ★
+- [dsmurrell/onkey](https://github.com/dsmurrell/onkey) — 351 ★
+- [winnin/farol](https://github.com/winnin/farol) — 158 ★
+- [D3voz/openjutsu](https://github.com/D3voz/openjutsu) — 76 ★
 - [Rapport complet](trending/frontend-nextjs-react.md)
 
 <!-- TRENDING:END -->
