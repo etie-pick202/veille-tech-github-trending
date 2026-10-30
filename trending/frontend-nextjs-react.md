@@ -1,16 +1,16 @@
 # Frontend (Next.js / React)
 
-Genere automatiquement le 2026-10-29 14:01:43 UTC — fenetre glissante de 14 jours.
+Genere automatiquement le 2026-10-30 13:56:09 UTC — fenetre glissante de 14 jours.
 
 | # | Repo | Etoiles | Langage | Description |
 |---|------|---------|---------|-------------|
-| 1 | [dsmurrell/onkey](https://github.com/dsmurrell/onkey) | 356 | Rust | Learn to sing the songs you love. A free, open-source singing trainer for Mac that listens to the music you play. |
-| 2 | [D3voz/openjutsu](https://github.com/D3voz/openjutsu) | 255 | TypeScript | One-click character swap for videos: an open-source, local Higgsfield Genjutsu alternative built on ComfyUI and MiniMax  |
-| 3 | [winnin/farol](https://github.com/winnin/farol) | 162 | TypeScript | Know the risk of merging a pull request, and where it lives. Free, open-source CLI and GitHub Action: after your AI revi |
-| 4 | [jiangylin5-hue/meta-ads-agent](https://github.com/jiangylin5-hue/meta-ads-agent) | 79 | Python | Bounded Meta Ads copilot with MCP tools, progressive Skills, context, Memory and safe Draft workflows |
-| 5 | [Gathin23/cleanyourtv-website](https://github.com/Gathin23/cleanyourtv-website) | 75 | TypeScript | The website for tv-vibehack. One old television, seven channels. |
-| 6 | [tanle-mtr/ChinaStudyFree](https://github.com/tanle-mtr/ChinaStudyFree) | 67 | TypeScript | 聪聪学堂 · 四端（Web/桌面/安卓/iOS）+ 四学段（小学/初中/高中/大学）免费公益 AI 学习平台，MIT 开源。免费 EdgeTTS 语音、148 本教材互动课程。 |
-| 7 | [Soumyadip01Das/palisade-game-enhancement](https://github.com/Soumyadip01Das/palisade-game-enhancement) | 58 | JavaScript | palisade: Multi-game enhancement for ARK, Conan, Palworld, Minecraft, Valheim and more |
-| 8 | [jaykwok/ARTEX](https://github.com/jaykwok/ARTEX) | 32 | Go | ARTEX ：AI 自主渗透测试系统（Go + Next.js），基于 Autumn-27/ARTEX v0.3.15（e6ec569，AGPL-3.0）。原版 v0.3.15 下载说明与恢复指引见 README。 |
-| 9 | [kaanarici/Emblem](https://github.com/kaanarici/Emblem) | 30 | Swift | An iPhone assistant that answers with native SwiftUI pages |
-| 10 | [EvgenRublev/Minimax_Studio](https://github.com/EvgenRublev/Minimax_Studio) | 28 | TypeScript | Локальная студия генерации кинематографичных видео со звуком на MiniMax H3 — Windows, NVIDIA GPU, полностью offline. |
+| 1 | [D3voz/openjutsu](https://github.com/D3voz/openjutsu) | 481 | TypeScript | One-click character swap for videos: an open-source, local Higgsfield Genjutsu alternative built on ComfyUI and MiniMax  |
+| 2 | [dsmurrell/onkey](https://github.com/dsmurrell/onkey) | 362 | Rust | Learn to sing the songs you love. A free, open-source singing trainer for Mac that listens to the music you play. |
+| 3 | [winnin/farol](https://github.com/winnin/farol) | 167 | TypeScript | Know the risk of merging a pull request, and where it lives. Free, open-source CLI and GitHub Action: after your AI revi |
+| 4 | [jiangylin5-hue/meta-ads-agent](https://github.com/jiangylin5-hue/meta-ads-agent) | 81 | Python | Bounded Meta Ads copilot with MCP tools, progressive Skills, context, Memory and safe Draft workflows |
+| 5 | [Gathin23/cleanyourtv-website](https://github.com/Gathin23/cleanyourtv-website) | 80 | TypeScript | The website for tv-vibehack. One old television, seven channels. |
+| 6 | [Soumyadip01Das/palisade-game-enhancement](https://github.com/Soumyadip01Das/palisade-game-enhancement) | 58 | JavaScript | palisade: Multi-game enhancement for ARK, Conan, Palworld, Minecraft, Valheim and more |
+| 7 | [GodAI-Master/ai-reference-atlas-zh](https://github.com/GodAI-Master/ai-reference-atlas-zh) | 38 | TypeScript | AI 参考集合 · 人脸 1499 / 姿势 490 / 服装 1407 · Next.js 16 重建，日文站点完整汉化 |
+| 8 | [giienew/9router-pro](https://github.com/giienew/9router-pro) | 36 | JavaScript | 9Router Pro by Gienetic — Pro edition of 9Router with Prompt Injection (system prompt or chat script per global / API ke |
+| 9 | [anshk1234/MEDUCID](https://github.com/anshk1234/MEDUCID) | 32 | TypeScript | MEDUCID is a web application that takes medical laboratory reports , presents them in clear, readable language. It displ |
+| 10 | [jaykwok/ARTEX](https://github.com/jaykwok/ARTEX) | 32 | Go | ARTEX ：AI 自主渗透测试系统（Go + Next.js），基于 Autumn-27/ARTEX v0.3.15（e6ec569，AGPL-3.0）。原版 v0.3.15 下载说明与恢复指引见 README。 |

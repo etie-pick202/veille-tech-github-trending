@@ -40,34 +40,34 @@ Necessite Node.js >= 20 (utilise le `fetch` natif). Optionnel : exporter un
 
 <!-- TRENDING:START -->
 
-_Derniere mise a jour : 2026-10-29 14:01:43 UTC_
+_Derniere mise a jour : 2026-10-30 13:56:09 UTC_
 
 ### IA & LLM
 
+- [ccch1mneyyy/dsh-Go](https://github.com/ccch1mneyyy/dsh-Go) — 1857 ★
 - [C4rohan/Lampline](https://github.com/C4rohan/Lampline) — 547 ★
-- [MemTensor/MemT-1.0](https://github.com/MemTensor/MemT-1.0) — 468 ★
-- [eliasbiondo/antirion](https://github.com/eliasbiondo/antirion) — 442 ★
+- [eliasbiondo/antirion](https://github.com/eliasbiondo/antirion) — 486 ★
 - [Rapport complet](trending/ai-llm.md)
 
 ### DevOps & Cloud
 
 - [Rocky-true/vmware-to-kubernetes](https://github.com/Rocky-true/vmware-to-kubernetes) — 156 ★
-- [sanjayadanushka712/TaskFlow](https://github.com/sanjayadanushka712/TaskFlow) — 121 ★
+- [sanjayadanushka712/TaskFlow](https://github.com/sanjayadanushka712/TaskFlow) — 125 ★
 - [datasifaw/shopflow-dataops](https://github.com/datasifaw/shopflow-dataops) — 78 ★
 - [Rapport complet](trending/devops-cloud.md)
 
 ### Backend (.NET / Go)
 
-- [DrWhax/unfairplay](https://github.com/DrWhax/unfairplay) — 755 ★
-- [armanlife/firefox-vpn-client](https://github.com/armanlife/firefox-vpn-client) — 483 ★
-- [egoist/mygo-cloudmusic](https://github.com/egoist/mygo-cloudmusic) — 339 ★
+- [paipiange/nvzhuang](https://github.com/paipiange/nvzhuang) — 904 ★
+- [DrWhax/unfairplay](https://github.com/DrWhax/unfairplay) — 797 ★
+- [armanlife/firefox-vpn-client](https://github.com/armanlife/firefox-vpn-client) — 507 ★
 - [Rapport complet](trending/backend-dotnet-go.md)
 
 ### Frontend (Next.js / React)
 
-- [dsmurrell/onkey](https://github.com/dsmurrell/onkey) — 356 ★
-- [D3voz/openjutsu](https://github.com/D3voz/openjutsu) — 255 ★
-- [winnin/farol](https://github.com/winnin/farol) — 162 ★
+- [D3voz/openjutsu](https://github.com/D3voz/openjutsu) — 481 ★
+- [dsmurrell/onkey](https://github.com/dsmurrell/onkey) — 362 ★
+- [winnin/farol](https://github.com/winnin/farol) — 167 ★
 - [Rapport complet](trending/frontend-nextjs-react.md)
 
 <!-- TRENDING:END -->
