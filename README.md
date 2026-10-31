@@ -40,34 +40,34 @@ Necessite Node.js >= 20 (utilise le `fetch` natif). Optionnel : exporter un
 
 <!-- TRENDING:START -->
 
-_Derniere mise a jour : 2026-10-30 13:56:09 UTC_
+_Derniere mise a jour : 2026-10-31 13:29:28 UTC_
 
 ### IA & LLM
 
-- [ccch1mneyyy/dsh-Go](https://github.com/ccch1mneyyy/dsh-Go) — 1857 ★
-- [C4rohan/Lampline](https://github.com/C4rohan/Lampline) — 547 ★
-- [eliasbiondo/antirion](https://github.com/eliasbiondo/antirion) — 486 ★
+- [ccch1mneyyy/dsh-Go](https://github.com/ccch1mneyyy/dsh-Go) — 3267 ★
+- [wangzan101/Mika](https://github.com/wangzan101/Mika) — 2209 ★
+- [jackwener/DSH-Android](https://github.com/jackwener/DSH-Android) — 599 ★
 - [Rapport complet](trending/ai-llm.md)
 
 ### DevOps & Cloud
 
-- [Rocky-true/vmware-to-kubernetes](https://github.com/Rocky-true/vmware-to-kubernetes) — 156 ★
-- [sanjayadanushka712/TaskFlow](https://github.com/sanjayadanushka712/TaskFlow) — 125 ★
-- [datasifaw/shopflow-dataops](https://github.com/datasifaw/shopflow-dataops) — 78 ★
+- [Rocky-true/vmware-to-kubernetes](https://github.com/Rocky-true/vmware-to-kubernetes) — 157 ★
+- [sanjayadanushka712/TaskFlow](https://github.com/sanjayadanushka712/TaskFlow) — 127 ★
+- [datasifaw/shopflow-dataops](https://github.com/datasifaw/shopflow-dataops) — 82 ★
 - [Rapport complet](trending/devops-cloud.md)
 
 ### Backend (.NET / Go)
 
-- [paipiange/nvzhuang](https://github.com/paipiange/nvzhuang) — 904 ★
-- [DrWhax/unfairplay](https://github.com/DrWhax/unfairplay) — 797 ★
-- [armanlife/firefox-vpn-client](https://github.com/armanlife/firefox-vpn-client) — 507 ★
+- [paipiange/nvzhuang](https://github.com/paipiange/nvzhuang) — 1550 ★
+- [DrWhax/unfairplay](https://github.com/DrWhax/unfairplay) — 819 ★
+- [armanlife/firefox-vpn-client](https://github.com/armanlife/firefox-vpn-client) — 528 ★
 - [Rapport complet](trending/backend-dotnet-go.md)
 
 ### Frontend (Next.js / React)
 
-- [D3voz/openjutsu](https://github.com/D3voz/openjutsu) — 481 ★
-- [dsmurrell/onkey](https://github.com/dsmurrell/onkey) — 362 ★
-- [winnin/farol](https://github.com/winnin/farol) — 167 ★
+- [D3voz/openjutsu](https://github.com/D3voz/openjutsu) — 696 ★
+- [dsmurrell/onkey](https://github.com/dsmurrell/onkey) — 373 ★
+- [winnin/farol](https://github.com/winnin/farol) — 170 ★
 - [Rapport complet](trending/frontend-nextjs-react.md)
 
 <!-- TRENDING:END -->
