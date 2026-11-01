@@ -40,34 +40,34 @@ Necessite Node.js >= 20 (utilise le `fetch` natif). Optionnel : exporter un
 
 <!-- TRENDING:START -->
 
-_Derniere mise a jour : 2026-10-31 13:29:28 UTC_
+_Derniere mise a jour : 2026-11-01 14:10:37 UTC_
 
 ### IA & LLM
 
-- [ccch1mneyyy/dsh-Go](https://github.com/ccch1mneyyy/dsh-Go) — 3267 ★
-- [wangzan101/Mika](https://github.com/wangzan101/Mika) — 2209 ★
-- [jackwener/DSH-Android](https://github.com/jackwener/DSH-Android) — 599 ★
+- [ccch1mneyyy/dsh-Go](https://github.com/ccch1mneyyy/dsh-Go) — 4293 ★
+- [wangzan101/Mika](https://github.com/wangzan101/Mika) — 3440 ★
+- [jackwener/DSH-Android](https://github.com/jackwener/DSH-Android) — 681 ★
 - [Rapport complet](trending/ai-llm.md)
 
 ### DevOps & Cloud
 
-- [Rocky-true/vmware-to-kubernetes](https://github.com/Rocky-true/vmware-to-kubernetes) — 157 ★
-- [sanjayadanushka712/TaskFlow](https://github.com/sanjayadanushka712/TaskFlow) — 127 ★
-- [datasifaw/shopflow-dataops](https://github.com/datasifaw/shopflow-dataops) — 82 ★
+- [sanjayadanushka712/TaskFlow](https://github.com/sanjayadanushka712/TaskFlow) — 130 ★
+- [XZaganev/rpocket-team-deadlock-counterpicker](https://github.com/XZaganev/rpocket-team-deadlock-counterpicker) — 104 ★
+- [paramedic0421-arch/microsoft-powerpoint-2026-workflow-guide](https://github.com/paramedic0421-arch/microsoft-powerpoint-2026-workflow-guide) — 82 ★
 - [Rapport complet](trending/devops-cloud.md)
 
 ### Backend (.NET / Go)
 
-- [paipiange/nvzhuang](https://github.com/paipiange/nvzhuang) — 1550 ★
-- [DrWhax/unfairplay](https://github.com/DrWhax/unfairplay) — 819 ★
-- [armanlife/firefox-vpn-client](https://github.com/armanlife/firefox-vpn-client) — 528 ★
+- [paipiange/nvzhuang](https://github.com/paipiange/nvzhuang) — 1838 ★
+- [DrWhax/unfairplay](https://github.com/DrWhax/unfairplay) — 835 ★
+- [egoist/mygo-cloudmusic](https://github.com/egoist/mygo-cloudmusic) — 501 ★
 - [Rapport complet](trending/backend-dotnet-go.md)
 
 ### Frontend (Next.js / React)
 
-- [D3voz/openjutsu](https://github.com/D3voz/openjutsu) — 696 ★
-- [dsmurrell/onkey](https://github.com/dsmurrell/onkey) — 373 ★
-- [winnin/farol](https://github.com/winnin/farol) — 170 ★
+- [D3voz/openjutsu](https://github.com/D3voz/openjutsu) — 964 ★
+- [winnin/farol](https://github.com/winnin/farol) — 171 ★
+- [Gathin23/cleanyourtv-website](https://github.com/Gathin23/cleanyourtv-website) — 83 ★
 - [Rapport complet](trending/frontend-nextjs-react.md)
 
 <!-- TRENDING:END -->
