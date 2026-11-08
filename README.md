@@ -40,34 +40,34 @@ Necessite Node.js >= 20 (utilise le `fetch` natif). Optionnel : exporter un
 
 <!-- TRENDING:START -->
 
-_Derniere mise a jour : 2026-11-07 13:50:45 UTC_
+_Derniere mise a jour : 2026-11-08 14:11:07 UTC_
 
 ### IA & LLM
 
-- [ccch1mneyyy/dsh-Go](https://github.com/ccch1mneyyy/dsh-Go) — 13776 ★
-- [wangzan101/Mika](https://github.com/wangzan101/Mika) — 7527 ★
-- [modelflare-ai/AnyModelBot](https://github.com/modelflare-ai/AnyModelBot) — 2735 ★
+- [wangzan101/Mika](https://github.com/wangzan101/Mika) — 7698 ★
+- [modelflare-ai/AnyModelBot](https://github.com/modelflare-ai/AnyModelBot) — 2741 ★
+- [N1nEmAn/sapper-v2](https://github.com/N1nEmAn/sapper-v2) — 1556 ★
 - [Rapport complet](trending/ai-llm.md)
 
 ### DevOps & Cloud
 
-- [SalmeronDevZone/azure-lab](https://github.com/SalmeronDevZone/azure-lab) — 132 ★
-- [codician-team/diffinery](https://github.com/codician-team/diffinery) — 82 ★
+- [SalmeronDevZone/azure-lab](https://github.com/SalmeronDevZone/azure-lab) — 135 ★
 - [fatihfurkan46/SignalWeave](https://github.com/fatihfurkan46/SignalWeave) — 57 ★
+- [2hjaito/davish](https://github.com/2hjaito/davish) — 57 ★
 - [Rapport complet](trending/devops-cloud.md)
 
 ### Backend (.NET / Go)
 
-- [DrWhax/unfairplay](https://github.com/DrWhax/unfairplay) — 968 ★
-- [egoist/mygo-music](https://github.com/egoist/mygo-music) — 598 ★
-- [Lee-xeo/Claude-Cage](https://github.com/Lee-xeo/Claude-Cage) — 565 ★
+- [paipiange/nvzhuang](https://github.com/paipiange/nvzhuang) — 2337 ★
+- [egoist/mygo-music](https://github.com/egoist/mygo-music) — 930 ★
+- [Lee-xeo/Claude-Cage](https://github.com/Lee-xeo/Claude-Cage) — 601 ★
 - [Rapport complet](trending/backend-dotnet-go.md)
 
 ### Frontend (Next.js / React)
 
-- [D3voz/openjutsu](https://github.com/D3voz/openjutsu) — 1888 ★
+- [D3voz/openjutsu](https://github.com/D3voz/openjutsu) — 1941 ★
+- [AbhiKamane/ai-app-builder-open](https://github.com/AbhiKamane/ai-app-builder-open) — 244 ★
 - [zeemscript/block-roll](https://github.com/zeemscript/block-roll) — 164 ★
-- [yorkeccak/globalhackmap](https://github.com/yorkeccak/globalhackmap) — 114 ★
 - [Rapport complet](trending/frontend-nextjs-react.md)
 
 <!-- TRENDING:END -->
