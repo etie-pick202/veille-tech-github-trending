@@ -40,33 +40,33 @@ Necessite Node.js >= 20 (utilise le `fetch` natif). Optionnel : exporter un
 
 <!-- TRENDING:START -->
 
-_Derniere mise a jour : 2026-11-08 14:11:07 UTC_
+_Derniere mise a jour : 2026-11-09 17:19:52 UTC_
 
 ### IA & LLM
 
-- [wangzan101/Mika](https://github.com/wangzan101/Mika) — 7698 ★
-- [modelflare-ai/AnyModelBot](https://github.com/modelflare-ai/AnyModelBot) — 2741 ★
-- [N1nEmAn/sapper-v2](https://github.com/N1nEmAn/sapper-v2) — 1556 ★
+- [wangzan101/Mika](https://github.com/wangzan101/Mika) — 7891 ★
+- [modelflare-ai/AnyModelBot](https://github.com/modelflare-ai/AnyModelBot) — 2743 ★
+- [N1nEmAn/sapper-v2](https://github.com/N1nEmAn/sapper-v2) — 1772 ★
 - [Rapport complet](trending/ai-llm.md)
 
 ### DevOps & Cloud
 
-- [SalmeronDevZone/azure-lab](https://github.com/SalmeronDevZone/azure-lab) — 135 ★
-- [fatihfurkan46/SignalWeave](https://github.com/fatihfurkan46/SignalWeave) — 57 ★
-- [2hjaito/davish](https://github.com/2hjaito/davish) — 57 ★
+- [SalmeronDevZone/azure-lab](https://github.com/SalmeronDevZone/azure-lab) — 137 ★
+- [Darktotemport/Microsoft-rpocket-PowerPoint-2026](https://github.com/Darktotemport/Microsoft-rpocket-PowerPoint-2026) — 59 ★
+- [brunnojob/cifuse](https://github.com/brunnojob/cifuse) — 50 ★
 - [Rapport complet](trending/devops-cloud.md)
 
 ### Backend (.NET / Go)
 
-- [paipiange/nvzhuang](https://github.com/paipiange/nvzhuang) — 2337 ★
-- [egoist/mygo-music](https://github.com/egoist/mygo-music) — 930 ★
-- [Lee-xeo/Claude-Cage](https://github.com/Lee-xeo/Claude-Cage) — 601 ★
+- [paipiange/nvzhuang](https://github.com/paipiange/nvzhuang) — 2648 ★
+- [DIYgod/pinky](https://github.com/DIYgod/pinky) — 1382 ★
+- [egoist/mygo-music](https://github.com/egoist/mygo-music) — 1096 ★
 - [Rapport complet](trending/backend-dotnet-go.md)
 
 ### Frontend (Next.js / React)
 
-- [D3voz/openjutsu](https://github.com/D3voz/openjutsu) — 1941 ★
-- [AbhiKamane/ai-app-builder-open](https://github.com/AbhiKamane/ai-app-builder-open) — 244 ★
+- [AbhiKamane/ai-app-builder-open](https://github.com/AbhiKamane/ai-app-builder-open) — 377 ★
+- [YusufCeng1z/ding](https://github.com/YusufCeng1z/ding) — 202 ★
 - [zeemscript/block-roll](https://github.com/zeemscript/block-roll) — 164 ★
 - [Rapport complet](trending/frontend-nextjs-react.md)
 
