@@ -40,33 +40,33 @@ Necessite Node.js >= 20 (utilise le `fetch` natif). Optionnel : exporter un
 
 <!-- TRENDING:START -->
 
-_Derniere mise a jour : 2026-11-10 15:29:43 UTC_
+_Derniere mise a jour : 2026-11-11 15:00:06 UTC_
 
 ### IA & LLM
 
-- [wangzan101/Mika](https://github.com/wangzan101/Mika) — 8023 ★
-- [N1nEmAn/sapper-v2](https://github.com/N1nEmAn/sapper-v2) — 1850 ★
-- [Sandflow-ai/sand3d](https://github.com/Sandflow-ai/sand3d) — 1727 ★
+- [wangzan101/Mika](https://github.com/wangzan101/Mika) — 8210 ★
+- [N1nEmAn/sapper-v2](https://github.com/N1nEmAn/sapper-v2) — 1955 ★
+- [Sandflow-ai/sand3d](https://github.com/Sandflow-ai/sand3d) — 1832 ★
 - [Rapport complet](trending/ai-llm.md)
 
 ### DevOps & Cloud
 
+- [ValidatorStack/solana-vigil](https://github.com/ValidatorStack/solana-vigil) — 241 ★
 - [SalmeronDevZone/azure-lab](https://github.com/SalmeronDevZone/azure-lab) — 138 ★
-- [brunnojob/cifuse](https://github.com/brunnojob/cifuse) — 61 ★
-- [Darktotemport/Microsoft-rpocket-PowerPoint-2026](https://github.com/Darktotemport/Microsoft-rpocket-PowerPoint-2026) — 57 ★
+- [brunnojob/cifuse](https://github.com/brunnojob/cifuse) — 74 ★
 - [Rapport complet](trending/devops-cloud.md)
 
 ### Backend (.NET / Go)
 
-- [paipiange/nvzhuang](https://github.com/paipiange/nvzhuang) — 2712 ★
-- [DIYgod/pinky](https://github.com/DIYgod/pinky) — 1633 ★
-- [egoist/mygo-music](https://github.com/egoist/mygo-music) — 1179 ★
+- [paipiange/nvzhuang](https://github.com/paipiange/nvzhuang) — 2791 ★
+- [Lee-xeo/Claude-Cage](https://github.com/Lee-xeo/Claude-Cage) — 2664 ★
+- [DIYgod/pinky](https://github.com/DIYgod/pinky) — 1835 ★
 - [Rapport complet](trending/backend-dotnet-go.md)
 
 ### Frontend (Next.js / React)
 
+- [YusufCeng1z/ding](https://github.com/YusufCeng1z/ding) — 535 ★
 - [AbhiKamane/ai-app-builder-open](https://github.com/AbhiKamane/ai-app-builder-open) — 481 ★
-- [YusufCeng1z/ding](https://github.com/YusufCeng1z/ding) — 402 ★
 - [zeemscript/block-roll](https://github.com/zeemscript/block-roll) — 164 ★
 - [Rapport complet](trending/frontend-nextjs-react.md)
 
