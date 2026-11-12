@@ -1,16 +1,16 @@
 # DevOps & Cloud
 
-Genere automatiquement le 2026-11-11 15:00:06 UTC — fenetre glissante de 14 jours.
+Genere automatiquement le 2026-11-12 15:53:01 UTC — fenetre glissante de 14 jours.
 
 | # | Repo | Etoiles | Langage | Description |
 |---|------|---------|---------|-------------|
 | 1 | [ValidatorStack/solana-vigil](https://github.com/ValidatorStack/solana-vigil) | 241 | Go | Solana validator health in 60 seconds: score, leader duties, rewards, disk forecast, Prometheus. One static binary, read |
-| 2 | [SalmeronDevZone/azure-lab](https://github.com/SalmeronDevZone/azure-lab) | 138 | TypeScript | Simulador de Azure para aprender DevOps sin cuenta ni costes: portal, Cloud Shell, Azure DevOps y una academia de 13 niv |
-| 3 | [brunnojob/cifuse](https://github.com/brunnojob/cifuse) | 74 | JavaScript | Turn noisy CI logs into grouped failures, exact evidence and investigation steps. Offline CLI, reusable GitHub Action an |
-| 4 | [Darktotemport/Microsoft-rpocket-PowerPoint-2026](https://github.com/Darktotemport/Microsoft-rpocket-PowerPoint-2026) | 57 | - | Standardize your Microsoft PowerPoint 2026 setup and project workflow on Windows with these design, organization, and ex |
-| 5 | [jaiswaladi246/DevOps-Cloud-Interview-Preparation-by-DevOps-Shack](https://github.com/jaiswaladi246/DevOps-Cloud-Interview-Preparation-by-DevOps-Shack) | 24 | - | 13,200 DevOps & Cloud interview Q&As + 20 hands-on labs + 500 assignments. Linux, Docker, K8s, CI/CD, Terraform, AWS, Az |
+| 2 | [serveroshq/panel](https://github.com/serveroshq/panel) | 229 | PHP | The open source ServerOS panel: one place to run the Linux servers you already own. |
+| 3 | [SalmeronDevZone/azure-lab](https://github.com/SalmeronDevZone/azure-lab) | 139 | TypeScript | Simulador de Azure para aprender DevOps sin cuenta ni costes: portal, Cloud Shell, Azure DevOps y una academia de 13 niv |
+| 4 | [brunnojob/cifuse](https://github.com/brunnojob/cifuse) | 92 | JavaScript | Turn noisy CI logs into grouped failures, exact evidence and investigation steps. Offline CLI, reusable GitHub Action an |
+| 5 | [jaiswaladi246/DevOps-Cloud-Interview-Preparation-by-DevOps-Shack](https://github.com/jaiswaladi246/DevOps-Cloud-Interview-Preparation-by-DevOps-Shack) | 28 | - | 13,200 DevOps & Cloud interview Q&As + 20 hands-on labs + 500 assignments. Linux, Docker, K8s, CI/CD, Terraform, AWS, Az |
 | 6 | [ryph-hq/ryph](https://github.com/ryph-hq/ryph) | 17 | TypeScript | 🤖 Self-hosted coding agents for your team: on call for your incidents, in your chat, on your forge. |
-| 7 | [kOlapsis/palier](https://github.com/kOlapsis/palier) | 12 | Go | Automatic updates for Docker Compose stacks: reads the release notes, has an AI plan the upgrade path (database majors i |
+| 7 | [kOlapsis/palier](https://github.com/kOlapsis/palier) | 13 | Go | Automatic updates for Docker Compose stacks: reads the release notes, has an AI plan the upgrade path (database majors i |
 | 8 | [Nandkishorrr/unit7](https://github.com/Nandkishorrr/unit7) | 12 | TypeScript | The backend developer your AI coding agent never had. Self-hosted control room for servers, Coolify, domains, databases  |
 | 9 | [roncoo-2/roqy-audit](https://github.com/roncoo-2/roqy-audit) | 12 | Python | A coding-agent skill for read-only infrastructure audits with independently verified, machine-readable findings |
 | 10 | [nethercoded/heron](https://github.com/nethercoded/heron) | 11 | Go | Self-hosted status page and uptime monitor. One small Go binary, SQLite, automatic HTTPS and a web installer. |
