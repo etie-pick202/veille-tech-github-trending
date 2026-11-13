@@ -40,32 +40,32 @@ Necessite Node.js >= 20 (utilise le `fetch` natif). Optionnel : exporter un
 
 <!-- TRENDING:START -->
 
-_Derniere mise a jour : 2026-11-12 15:53:01 UTC_
+_Derniere mise a jour : 2026-11-13 15:14:38 UTC_
 
 ### IA & LLM
 
-- [N1nEmAn/sapper-v2](https://github.com/N1nEmAn/sapper-v2) — 2018 ★
-- [Sandflow-ai/sand3d](https://github.com/Sandflow-ai/sand3d) — 1909 ★
-- [RunanywhereAI/trnrt](https://github.com/RunanywhereAI/trnrt) — 1525 ★
+- [Sandflow-ai/sand3d](https://github.com/Sandflow-ai/sand3d) — 1954 ★
+- [agentes-chat/agentes-chat](https://github.com/agentes-chat/agentes-chat) — 1293 ★
+- [SAOS-3624/dsh-see-now](https://github.com/SAOS-3624/dsh-see-now) — 621 ★
 - [Rapport complet](trending/ai-llm.md)
 
 ### DevOps & Cloud
 
-- [ValidatorStack/solana-vigil](https://github.com/ValidatorStack/solana-vigil) — 241 ★
-- [serveroshq/panel](https://github.com/serveroshq/panel) — 229 ★
-- [SalmeronDevZone/azure-lab](https://github.com/SalmeronDevZone/azure-lab) — 139 ★
+- [serveroshq/panel](https://github.com/serveroshq/panel) — 717 ★
+- [ValidatorStack/solana-vigil](https://github.com/ValidatorStack/solana-vigil) — 240 ★
+- [brunnojob/cifuse](https://github.com/brunnojob/cifuse) — 98 ★
 - [Rapport complet](trending/devops-cloud.md)
 
 ### Backend (.NET / Go)
 
-- [Lee-xeo/Claude-Cage](https://github.com/Lee-xeo/Claude-Cage) — 4630 ★
-- [DIYgod/pinky](https://github.com/DIYgod/pinky) — 1981 ★
-- [egoist/mygo-music](https://github.com/egoist/mygo-music) — 1274 ★
+- [Lee-xeo/Claude-Cage](https://github.com/Lee-xeo/Claude-Cage) — 5190 ★
+- [DIYgod/pinky](https://github.com/DIYgod/pinky) — 2068 ★
+- [egoist/mygo-music](https://github.com/egoist/mygo-music) — 1306 ★
 - [Rapport complet](trending/backend-dotnet-go.md)
 
 ### Frontend (Next.js / React)
 
-- [YusufCeng1z/ding](https://github.com/YusufCeng1z/ding) — 602 ★
+- [YusufCeng1z/ding](https://github.com/YusufCeng1z/ding) — 638 ★
 - [AbhiKamane/ai-app-builder-open](https://github.com/AbhiKamane/ai-app-builder-open) — 384 ★
 - [zeemscript/block-roll](https://github.com/zeemscript/block-roll) — 164 ★
 - [Rapport complet](trending/frontend-nextjs-react.md)
