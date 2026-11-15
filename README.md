@@ -40,33 +40,33 @@ Necessite Node.js >= 20 (utilise le `fetch` natif). Optionnel : exporter un
 
 <!-- TRENDING:START -->
 
-_Derniere mise a jour : 2026-11-14 14:01:28 UTC_
+_Derniere mise a jour : 2026-11-15 14:37:36 UTC_
 
 ### IA & LLM
 
-- [Sandflow-ai/sand3d](https://github.com/Sandflow-ai/sand3d) — 1980 ★
-- [agentes-chat/agentes-chat](https://github.com/agentes-chat/agentes-chat) — 1371 ★
-- [hyperionaidev/smolmaxxing](https://github.com/hyperionaidev/smolmaxxing) — 671 ★
+- [Sandflow-ai/sand3d](https://github.com/Sandflow-ai/sand3d) — 2025 ★
+- [agentes-chat/agentes-chat](https://github.com/agentes-chat/agentes-chat) — 1467 ★
+- [hyperionaidev/smolmaxxing](https://github.com/hyperionaidev/smolmaxxing) — 723 ★
 - [Rapport complet](trending/ai-llm.md)
 
 ### DevOps & Cloud
 
-- [serveroshq/panel](https://github.com/serveroshq/panel) — 771 ★
+- [serveroshq/panel](https://github.com/serveroshq/panel) — 832 ★
 - [ValidatorStack/solana-vigil](https://github.com/ValidatorStack/solana-vigil) — 230 ★
-- [brunnojob/cifuse](https://github.com/brunnojob/cifuse) — 111 ★
+- [brunnojob/cifuse](https://github.com/brunnojob/cifuse) — 158 ★
 - [Rapport complet](trending/devops-cloud.md)
 
 ### Backend (.NET / Go)
 
-- [DIYgod/pinky](https://github.com/DIYgod/pinky) — 2129 ★
-- [egoist/mygo-music](https://github.com/egoist/mygo-music) — 1338 ★
-- [HolyArrs/HolyArrs](https://github.com/HolyArrs/HolyArrs) — 1142 ★
+- [DIYgod/pinky](https://github.com/DIYgod/pinky) — 2191 ★
+- [egoist/mygo-music](https://github.com/egoist/mygo-music) — 1369 ★
+- [HolyArrs/HolyArrs](https://github.com/HolyArrs/HolyArrs) — 1223 ★
 - [Rapport complet](trending/backend-dotnet-go.md)
 
 ### Frontend (Next.js / React)
 
-- [YusufCeng1z/ding](https://github.com/YusufCeng1z/ding) — 648 ★
-- [opencoredev/islandcn](https://github.com/opencoredev/islandcn) — 590 ★
+- [opencoredev/islandcn](https://github.com/opencoredev/islandcn) — 715 ★
+- [YusufCeng1z/ding](https://github.com/YusufCeng1z/ding) — 662 ★
 - [AbhiKamane/ai-app-builder-open](https://github.com/AbhiKamane/ai-app-builder-open) — 384 ★
 - [Rapport complet](trending/frontend-nextjs-react.md)
 
