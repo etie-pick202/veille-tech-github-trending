@@ -40,34 +40,34 @@ Necessite Node.js >= 20 (utilise le `fetch` natif). Optionnel : exporter un
 
 <!-- TRENDING:START -->
 
-_Derniere mise a jour : 2026-11-15 14:37:36 UTC_
+_Derniere mise a jour : 2026-11-16 16:53:32 UTC_
 
 ### IA & LLM
 
-- [Sandflow-ai/sand3d](https://github.com/Sandflow-ai/sand3d) — 2025 ★
-- [agentes-chat/agentes-chat](https://github.com/agentes-chat/agentes-chat) — 1467 ★
-- [hyperionaidev/smolmaxxing](https://github.com/hyperionaidev/smolmaxxing) — 723 ★
+- [hitkeeen/blender-ai-mcp-addon](https://github.com/hitkeeen/blender-ai-mcp-addon) — 2090 ★
+- [Sandflow-ai/sand3d](https://github.com/Sandflow-ai/sand3d) — 2072 ★
+- [agentes-chat/agentes-chat](https://github.com/agentes-chat/agentes-chat) — 1604 ★
 - [Rapport complet](trending/ai-llm.md)
 
 ### DevOps & Cloud
 
-- [serveroshq/panel](https://github.com/serveroshq/panel) — 832 ★
+- [serveroshq/panel](https://github.com/serveroshq/panel) — 985 ★
 - [ValidatorStack/solana-vigil](https://github.com/ValidatorStack/solana-vigil) — 230 ★
-- [brunnojob/cifuse](https://github.com/brunnojob/cifuse) — 158 ★
+- [brunnojob/cifuse](https://github.com/brunnojob/cifuse) — 161 ★
 - [Rapport complet](trending/devops-cloud.md)
 
 ### Backend (.NET / Go)
 
-- [DIYgod/pinky](https://github.com/DIYgod/pinky) — 2191 ★
-- [egoist/mygo-music](https://github.com/egoist/mygo-music) — 1369 ★
-- [HolyArrs/HolyArrs](https://github.com/HolyArrs/HolyArrs) — 1223 ★
+- [DIYgod/pinky](https://github.com/DIYgod/pinky) — 2282 ★
+- [egoist/mygo-music](https://github.com/egoist/mygo-music) — 1410 ★
+- [HolyArrs/HolyArrs](https://github.com/HolyArrs/HolyArrs) — 1334 ★
 - [Rapport complet](trending/backend-dotnet-go.md)
 
 ### Frontend (Next.js / React)
 
-- [opencoredev/islandcn](https://github.com/opencoredev/islandcn) — 715 ★
-- [YusufCeng1z/ding](https://github.com/YusufCeng1z/ding) — 662 ★
-- [AbhiKamane/ai-app-builder-open](https://github.com/AbhiKamane/ai-app-builder-open) — 384 ★
+- [opencoredev/islandcn](https://github.com/opencoredev/islandcn) — 767 ★
+- [YusufCeng1z/ding](https://github.com/YusufCeng1z/ding) — 715 ★
+- [YellowLaborerMarket/Gemini-Config-Checker-](https://github.com/YellowLaborerMarket/Gemini-Config-Checker-) — 473 ★
 - [Rapport complet](trending/frontend-nextjs-react.md)
 
 <!-- TRENDING:END -->
