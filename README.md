@@ -40,32 +40,32 @@ Necessite Node.js >= 20 (utilise le `fetch` natif). Optionnel : exporter un
 
 <!-- TRENDING:START -->
 
-_Derniere mise a jour : 2026-11-19 16:27:56 UTC_
+_Derniere mise a jour : 2026-11-20 15:59:08 UTC_
 
 ### IA & LLM
 
-- [agentes-chat/agentes-chat](https://github.com/agentes-chat/agentes-chat) — 1738 ★
-- [sybil-solutions/inference-optimisation-skill](https://github.com/sybil-solutions/inference-optimisation-skill) — 1214 ★
-- [Dodaios/ste80-humanizer](https://github.com/Dodaios/ste80-humanizer) — 962 ★
+- [agentes-chat/agentes-chat](https://github.com/agentes-chat/agentes-chat) — 1814 ★
+- [sybil-solutions/inference-optimisation-skill](https://github.com/sybil-solutions/inference-optimisation-skill) — 1305 ★
+- [bookwjitchieni1986/blender-ai-mcp-addon](https://github.com/bookwjitchieni1986/blender-ai-mcp-addon) — 1081 ★
 - [Rapport complet](trending/ai-llm.md)
 
 ### DevOps & Cloud
 
-- [serveroshq/panel](https://github.com/serveroshq/panel) — 1168 ★
+- [serveroshq/panel](https://github.com/serveroshq/panel) — 1177 ★
 - [ValidatorStack/solana-vigil](https://github.com/ValidatorStack/solana-vigil) — 227 ★
-- [brunnojob/cifuse](https://github.com/brunnojob/cifuse) — 196 ★
+- [brunnojob/cifuse](https://github.com/brunnojob/cifuse) — 204 ★
 - [Rapport complet](trending/devops-cloud.md)
 
 ### Backend (.NET / Go)
 
-- [DIYgod/pinky](https://github.com/DIYgod/pinky) — 2525 ★
-- [HolyArrs/HolyArrs](https://github.com/HolyArrs/HolyArrs) — 2177 ★
-- [failsafe-security/artex](https://github.com/failsafe-security/artex) — 870 ★
+- [HolyArrs/HolyArrs](https://github.com/HolyArrs/HolyArrs) — 2406 ★
+- [failsafe-security/artex](https://github.com/failsafe-security/artex) — 894 ★
+- [TooonyChen/finallyshell](https://github.com/TooonyChen/finallyshell) — 623 ★
 - [Rapport complet](trending/backend-dotnet-go.md)
 
 ### Frontend (Next.js / React)
 
-- [opencoredev/islandcn](https://github.com/opencoredev/islandcn) — 816 ★
+- [opencoredev/islandcn](https://github.com/opencoredev/islandcn) — 821 ★
 - [YellowLaborerMarket/Gemini-Config-Checker-](https://github.com/YellowLaborerMarket/Gemini-Config-Checker-) — 474 ★
 - [weightcashiercupola/Gemini-Config-Checker-](https://github.com/weightcashiercupola/Gemini-Config-Checker-) — 473 ★
 - [Rapport complet](trending/frontend-nextjs-react.md)
