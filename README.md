@@ -40,34 +40,34 @@ Necessite Node.js >= 20 (utilise le `fetch` natif). Optionnel : exporter un
 
 <!-- TRENDING:START -->
 
-_Derniere mise a jour : 2026-11-23 19:07:20 UTC_
+_Derniere mise a jour : 2026-11-24 18:45:25 UTC_
 
 ### IA & LLM
 
-- [bookwjitchieni1986/blender-ai-mcp-addon](https://github.com/bookwjitchieni1986/blender-ai-mcp-addon) — 2765 ★
-- [sybil-solutions/inference-optimisation-skill](https://github.com/sybil-solutions/inference-optimisation-skill) — 2092 ★
-- [pierridotite/mobile-agent-testers](https://github.com/pierridotite/mobile-agent-testers) — 1371 ★
+- [sybil-solutions/inference-optimisation-skill](https://github.com/sybil-solutions/inference-optimisation-skill) — 2494 ★
+- [pierridotite/mobile-agent-testers](https://github.com/pierridotite/mobile-agent-testers) — 1750 ★
+- [mankidev/antialgorithm](https://github.com/mankidev/antialgorithm) — 825 ★
 - [Rapport complet](trending/ai-llm.md)
 
 ### DevOps & Cloud
 
-- [ValidatorStack/solana-vigil](https://github.com/ValidatorStack/solana-vigil) — 226 ★
 - [tdawalton1-alt/microsoft-powerpoint](https://github.com/tdawalton1-alt/microsoft-powerpoint) — 153 ★
-- [spacesky-cell/TwinFix](https://github.com/spacesky-cell/TwinFix) — 137 ★
+- [spacesky-cell/TwinFix](https://github.com/spacesky-cell/TwinFix) — 136 ★
+- [db-branch/db-branch](https://github.com/db-branch/db-branch) — 107 ★
 - [Rapport complet](trending/devops-cloud.md)
 
 ### Backend (.NET / Go)
 
-- [failsafe-security/artex](https://github.com/failsafe-security/artex) — 950 ★
-- [TurtleReside/Gemini-Config-Checker-](https://github.com/TurtleReside/Gemini-Config-Checker-) — 464 ★
-- [WerewolfEmuHub/Gemini-Config-Checker-](https://github.com/WerewolfEmuHub/Gemini-Config-Checker-) — 464 ★
+- [TurtleReside/Gemini-Config-Checker-](https://github.com/TurtleReside/Gemini-Config-Checker-) — 463 ★
+- [WerewolfEmuHub/Gemini-Config-Checker-](https://github.com/WerewolfEmuHub/Gemini-Config-Checker-) — 463 ★
+- [Violetnyudress/Gemini-Config-Checker-](https://github.com/Violetnyudress/Gemini-Config-Checker-) — 463 ★
 - [Rapport complet](trending/backend-dotnet-go.md)
 
 ### Frontend (Next.js / React)
 
-- [opencoredev/islandcn](https://github.com/opencoredev/islandcn) — 846 ★
-- [YellowLaborerMarket/Gemini-Config-Checker-](https://github.com/YellowLaborerMarket/Gemini-Config-Checker-) — 467 ★
-- [weightcashiercupola/Gemini-Config-Checker-](https://github.com/weightcashiercupola/Gemini-Config-Checker-) — 465 ★
+- [opencoredev/islandcn](https://github.com/opencoredev/islandcn) — 854 ★
+- [YellowLaborerMarket/Gemini-Config-Checker-](https://github.com/YellowLaborerMarket/Gemini-Config-Checker-) — 466 ★
+- [weightcashiercupola/Gemini-Config-Checker-](https://github.com/weightcashiercupola/Gemini-Config-Checker-) — 464 ★
 - [Rapport complet](trending/frontend-nextjs-react.md)
 
 <!-- TRENDING:END -->
