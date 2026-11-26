@@ -1,10 +1,10 @@
 # Frontend (Next.js / React)
 
-Genere automatiquement le 2026-11-25 17:53:34 UTC — fenetre glissante de 14 jours.
+Genere automatiquement le 2026-11-26 17:38:27 UTC — fenetre glissante de 14 jours.
 
 | # | Repo | Etoiles | Langage | Description |
 |---|------|---------|---------|-------------|
-| 1 | [opencoredev/islandcn](https://github.com/opencoredev/islandcn) | 856 | TypeScript | The open-source Dynamic Island for React, installed with shadcn. |
+| 1 | [opencoredev/islandcn](https://github.com/opencoredev/islandcn) | 863 | TypeScript | The open-source Dynamic Island for React, installed with shadcn. |
 | 2 | [YellowLaborerMarket/Gemini-Config-Checker-](https://github.com/YellowLaborerMarket/Gemini-Config-Checker-) | 454 | Makefile | Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DP |
 | 3 | [weightcashiercupola/Gemini-Config-Checker-](https://github.com/weightcashiercupola/Gemini-Config-Checker-) | 452 | Makefile | Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DP |
 | 4 | [TurtleReside/Gemini-Config-Checker-](https://github.com/TurtleReside/Gemini-Config-Checker-) | 451 | Go | Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DP |
