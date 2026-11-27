@@ -40,34 +40,34 @@ Necessite Node.js >= 20 (utilise le `fetch` natif). Optionnel : exporter un
 
 <!-- TRENDING:START -->
 
-_Derniere mise a jour : 2026-11-26 17:38:27 UTC_
+_Derniere mise a jour : 2026-11-27 17:21:18 UTC_
 
 ### IA & LLM
 
-- [sybil-solutions/inference-optimisation-skill](https://github.com/sybil-solutions/inference-optimisation-skill) — 2789 ★
-- [pierridotite/mobile-agent-testers](https://github.com/pierridotite/mobile-agent-testers) — 2480 ★
-- [opensetlabs/openset-llm](https://github.com/opensetlabs/openset-llm) — 1519 ★
+- [sybil-solutions/inference-optimisation-skill](https://github.com/sybil-solutions/inference-optimisation-skill) — 2870 ★
+- [pierridotite/mobile-agent-testers](https://github.com/pierridotite/mobile-agent-testers) — 2587 ★
+- [alesha-pro/llm.asm](https://github.com/alesha-pro/llm.asm) — 1967 ★
 - [Rapport complet](trending/ai-llm.md)
 
 ### DevOps & Cloud
 
 - [tdawalton1-alt/microsoft-powerpoint](https://github.com/tdawalton1-alt/microsoft-powerpoint) — 153 ★
-- [spacesky-cell/TwinFix](https://github.com/spacesky-cell/TwinFix) — 136 ★
-- [db-branch/db-branch](https://github.com/db-branch/db-branch) — 117 ★
+- [royalpriest/devops-sim](https://github.com/royalpriest/devops-sim) — 62 ★
+- [joesabbagh1/kubelearn](https://github.com/joesabbagh1/kubelearn) — 49 ★
 - [Rapport complet](trending/devops-cloud.md)
 
 ### Backend (.NET / Go)
 
-- [xyc999-ai/go-bot](https://github.com/xyc999-ai/go-bot) — 602 ★
+- [xyc999-ai/go-bot](https://github.com/xyc999-ai/go-bot) — 745 ★
 - [TurtleReside/Gemini-Config-Checker-](https://github.com/TurtleReside/Gemini-Config-Checker-) — 451 ★
 - [WerewolfEmuHub/Gemini-Config-Checker-](https://github.com/WerewolfEmuHub/Gemini-Config-Checker-) — 451 ★
 - [Rapport complet](trending/backend-dotnet-go.md)
 
 ### Frontend (Next.js / React)
 
-- [opencoredev/islandcn](https://github.com/opencoredev/islandcn) — 863 ★
 - [YellowLaborerMarket/Gemini-Config-Checker-](https://github.com/YellowLaborerMarket/Gemini-Config-Checker-) — 454 ★
-- [weightcashiercupola/Gemini-Config-Checker-](https://github.com/weightcashiercupola/Gemini-Config-Checker-) — 452 ★
+- [weightcashiercupola/Gemini-Config-Checker-](https://github.com/weightcashiercupola/Gemini-Config-Checker-) — 453 ★
+- [TurtleReside/Gemini-Config-Checker-](https://github.com/TurtleReside/Gemini-Config-Checker-) — 451 ★
 - [Rapport complet](trending/frontend-nextjs-react.md)
 
 <!-- TRENDING:END -->
